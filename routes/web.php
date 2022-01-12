@@ -11,6 +11,5 @@
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
+Route::get('/', 'IndexController@redirect');
+Route::get('/la-so-tu-vi', 'IndexController@index');

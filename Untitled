@@ -1,0 +1,11 @@
+  curl 'http://chitay.xemtuong.net/an_sao_tu_vi/index.php' \
+  -H 'Connection: keep-alive' \
+  -H 'Cache-Control: max-age=0' \
+  -H 'Upgrade-Insecure-Requests: 1' \
+  -H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36' \
+  -H 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9' \
+  -H 'Referer: http://chitay.xemtuong.net/an_sao_tu_vi/index.php' \
+  -H 'Accept-Language: en,vi;q=0.9' \
+  -H 'Cookie: xtprotect=Cookie; _ga=GA1.2.1119439274.1641981226; _gid=GA1.2.2061970031.1641981226; __gads=ID=85d2b10a939e1b9c-220f2030d0cf0016:T=1641981225:RT=1641981225:S=ALNI_MZODQ_jCkkuEY4TspmAPUbr5HdwFA; PHPSESSID=7g8c1e1tru0jifhkgu98lrant2' \
+  --compressed \
+  --insecure
