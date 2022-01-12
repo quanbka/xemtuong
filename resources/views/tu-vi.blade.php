@@ -6,26 +6,20 @@
     <title itemprop="name">Tu Vi, Xem tu vi, Coi tu vi, La so tu vi, An sao tu vi va binh biai: Nguyen Hong Phuc Sinh ngay Dinh Suu Thang Canh Ngo Nam Giap Ty</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta itemprop="description" name="description"
-        content="Phần mềm xem tử vi tốt nhất hiện nay do chuyên gia Tử vi Lý Gia Hào của config('app.name') biên soạn. Bao gồm bình giải của Bắc phái và Nam phái, xem đầy đủ các cách cuc, phi tinh, chi tiết các đại hạn, tiểu hạn và nguyệt hạn...">
+        content="Phần mềm xem tử vi tốt nhất hiện nay do chuyên gia Tử vi Lý Gia Hào của {{ config('app.name') }}biên soạn. Bao gồm bình giải của Bắc phái và Nam phái, xem đầy đủ các cách cuc, phi tinh, chi tiết các đại hạn, tiểu hạn và nguyệt hạn...">
     <meta id="metakeywords" name="keywords" content="Tử Vi, Xem tử vi, Coi tử vi, Lá số tử vi, An sao tử vi và bình biải: Nguyễn Hồng Phúc Sinh ngày Đinh Sửu Tháng Canh Ngọ Năm Giáp Tý" />
     <meta id="newskeywords" name="news_keywords" content="Tử Vi, Xem tử vi, Coi tử vi, Lá số tử vi, An sao tử vi và bình biải: Nguyễn Hồng Phúc Sinh ngày Đinh Sửu Tháng Canh Ngọ Năm Giáp Tý" />
     <meta itemprop="author" name="author" content="config('app.name')">
-    <meta itemprop="url" content="http://chitay.config('app.name')/an_sao_tu_vi/index.php" />
     <meta name="robots" content="index,follow" />
     <meta name="revisit-after" content="1 days" />
     <meta property="og:type" content="article" />
-    <meta property="og:url" content="http://chitay.config('app.name')/an_sao_tu_vi/index.php" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Tử Vi, Xem tử vi, Coi tử vi, Lá số tử vi, An sao tử vi và bình biải: Nguyễn Hồng Phúc Sinh ngày Đinh Sửu Tháng Canh Ngọ Năm Giáp Tý" />
     <meta property="og:description"
-        content="Phần mềm xem tử vi tốt nhất hiện nay do chuyên gia Tử vi Lý Gia Hào của config('app.name') biên soạn. Bao gồm bình giải của Bắc phái và Nam phái, xem đầy đủ các cách cuc, phi tinh, chi tiết các đại hạn, tiểu hạn và nguyệt hạn..." />
-    <meta property="og:image" content="http://config('app.name')/images/rand/8.jpg" />
+        content="Phần mềm xem tử vi tốt nhất hiện nay do chuyên gia Tử vi Lý Gia Hào của {{ config('app.name') }}biên soạn. Bao gồm bình giải của Bắc phái và Nam phái, xem đầy đủ các cách cuc, phi tinh, chi tiết các đại hạn, tiểu hạn và nguyệt hạn..." />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <!--<meta name="viewport" content="width=device-width, initial-scale=1">-->
     <meta name="author" content="config('app.name')">
-    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://config('app.name')/images/facebook_logo.jpg">
-    <link rel="apple-touch-icon-precomposed" href="http://config('app.name')/images/facebook_logo.jpg">
-    <link rel="shortcut icon" href="http://config('app.name')/favicon.ico">
     <link href="/java/dist/css/bootstrap.min.css" rel="stylesheet">
     <link href="/java/assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
     <link href="/java/examples/offcanvas/offcanvas.css" rel="stylesheet">
@@ -183,7 +177,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a href="http://config('app.name')"><img border="0" src="/images/logo1_xuan.png" alt="Trang Chủ config('app.name')" title="Trang Chủ config('app.name')"></a>
+                <a href="{{ config('app.url') }}"><img border="0" src="/images/logo1_xuan.png" alt="Trang Chủ config('app.name')" title="Trang Chủ config('app.name')"></a>
             </div>
 
             <!--topmenu-->
@@ -984,7 +978,7 @@
                                                         <p align='left'>Lập lúc:
                                                     </td>
                                                     <td align='left'>
-                                                        <p align='right'><span class='color_diaban'> 20:51 phút, ngày 12/01/2022 tại <a href='http://config('app.name')'>X
+                                                        <p align='right'><span class='color_diaban'> 20:51 phút, ngày 12/01/2022 tại <a href='{{ config('app.url') }}'>X
                                                                     <!--7721-->e
                                                                     <!--7721-->m
                                                                     <!--7721-->T
@@ -1521,10 +1515,10 @@
     <footer style="background-image: url('/images/bg_footer.jpg'); background-color: #5C5C5C; height: 100px">
         <span itemprop="author" itemscope itemtype="http://schema.org/Person">
             <center>
-                <a href="/quydinh.php">Quy Định</a> Ghi rõ nguồn config('app.name') khi Quý vị phát hành lại nội dung trên website này.
+                <a href="/quydinh.php">Quy Định</a> Ghi rõ nguồn {{ config('app.name') }}khi Quý vị phát hành lại nội dung trên website này.
                 <br>© 2006 - 2022 <span itemprop="name">config('app.name')</span> All rights reserved
                 <br>
-                Email: config('app.name') @ gmail.com
+                Email: {{ config('app.name') }}@ gmail.com
             </center>
         </span>
     </footer>
