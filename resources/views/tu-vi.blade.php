@@ -9,7 +9,7 @@
         content="Phần mềm xem tử vi tốt nhất hiện nay do chuyên gia Tử vi Lý Gia Hào của {{ config('app.name') }}biên soạn. Bao gồm bình giải của Bắc phái và Nam phái, xem đầy đủ các cách cuc, phi tinh, chi tiết các đại hạn, tiểu hạn và nguyệt hạn...">
     <meta id="metakeywords" name="keywords" content="Tử Vi, Xem tử vi, Coi tử vi, Lá số tử vi, An sao tử vi và bình biải: Nguyễn Hồng Phúc Sinh ngày Đinh Sửu Tháng Canh Ngọ Năm Giáp Tý" />
     <meta id="newskeywords" name="news_keywords" content="Tử Vi, Xem tử vi, Coi tử vi, Lá số tử vi, An sao tử vi và bình biải: Nguyễn Hồng Phúc Sinh ngày Đinh Sửu Tháng Canh Ngọ Năm Giáp Tý" />
-    <meta itemprop="author" name="author" content="config('app.name')">
+    <meta itemprop="author" name="author" content="{{ config('app.name') }}">
     <meta name="robots" content="index,follow" />
     <meta name="revisit-after" content="1 days" />
     <meta property="og:type" content="article" />
@@ -19,7 +19,7 @@
         content="Phần mềm xem tử vi tốt nhất hiện nay do chuyên gia Tử vi Lý Gia Hào của {{ config('app.name') }}biên soạn. Bao gồm bình giải của Bắc phái và Nam phái, xem đầy đủ các cách cuc, phi tinh, chi tiết các đại hạn, tiểu hạn và nguyệt hạn..." />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <!--<meta name="viewport" content="width=device-width, initial-scale=1">-->
-    <meta name="author" content="config('app.name')">
+    <meta name="author" content="{{ config('app.name') }}">
     <link href="/java/dist/css/bootstrap.min.css" rel="stylesheet">
     <link href="/java/assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
     <link href="/java/examples/offcanvas/offcanvas.css" rel="stylesheet">
@@ -177,7 +177,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a href="{{ config('app.url') }}"><img border="0" src="/images/logo1_xuan.png" alt="Trang Chủ config('app.name')" title="Trang Chủ config('app.name')"></a>
+                <a href="{{ config('app.url') }}"><img border="0" src="/images/logo1_xuan.png" alt="Trang Chủ {{ config('app.name') }}" title="Trang Chủ {{ config('app.name') }}"></a>
             </div>
 
             <!--topmenu-->
@@ -1481,7 +1481,7 @@
                                                         class='glyphicon glyphicon-off' aria-hidden='true'></span> Tắt Tứ Hóa</a> <a target='_blank' class='btn btn-default'
                                                     href='ban_in.php?name=Nguy%E1%BB%85n+H%E1%BB%93ng+Ph%C3%BAc&day=12&month=6&year=1984&gio=7&phut=00&gender=0&isLunar=&fixhour=&year_xem=2022&submit=xem&phi_tinh=&tu_hoa='><span
                                                         class='glyphicon glyphicon-print' aria-hidden='true'></span> Bản in</a> <a target='_blank' class='btn btn-default'
-                                                    href='http://chitay.config('app.name')/an_sao_tu_vi/laso/2022-7-00-12-6-1984-0---1-/Tmd1eeG7hW4gSOG7k25nIFBow7pj.pdf'><span class='glyphicon glyphicon-save' aria-hidden='true'></span> PDF</a> <a
+                                                    href='http://chitay.{{ config('app.name') }}/an_sao_tu_vi/laso/2022-7-00-12-6-1984-0---1-/Tmd1eeG7hW4gSOG7k25nIFBow7pj.pdf'><span class='glyphicon glyphicon-save' aria-hidden='true'></span> PDF</a> <a
                                                     target='_blank' class='btn btn-default'
                                                     href='img.php?name=Nguy%E1%BB%85n+H%E1%BB%93ng+Ph%C3%BAc&day=12&month=6&year=1984&gio=7&phut=00&gender=0&isLunar=&fixhour=&year_xem=2022&submit=xem&phi_tinh=&tu_hoa='><span
                                                         class='glyphicon glyphicon-picture' aria-hidden='true'></span> File Hình</a> <a target='_blank' class='btn btn-default'
@@ -1516,7 +1516,7 @@
         <span itemprop="author" itemscope itemtype="http://schema.org/Person">
             <center>
                 <a href="/quydinh.php">Quy Định</a> Ghi rõ nguồn {{ config('app.name') }}khi Quý vị phát hành lại nội dung trên website này.
-                <br>© 2006 - 2022 <span itemprop="name">config('app.name')</span> All rights reserved
+                <br>© 2006 - 2022 <span itemprop="name">{{ config('app.name') }}</span> All rights reserved
                 <br>
                 Email: {{ config('app.name') }}@ gmail.com
             </center>
