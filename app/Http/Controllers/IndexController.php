@@ -3,6 +3,7 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
+use View;
 
 class IndexController extends Controller
 {
@@ -14,6 +15,10 @@ class IndexController extends Controller
     public function index (Request $request) {
         $originUrl = $this->getOriginUrl(url()->full());
         $response = $this->sendRequest($originUrl);
+        View::share('response', $response);
+        View::share('table', '');
+        View::share('text', '');
+        return view('tu-vi');
         return $response;
     }
 
