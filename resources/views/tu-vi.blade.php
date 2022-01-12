@@ -289,7 +289,7 @@
                             <h1 itemprop='name'>Lá Số Tử Vi Và Bình Giải Chi Tiết</h1>
                         </div>
                         <center>
-                            <form class='form-inline' action='index.php' method='get'>
+                            <form class='form-inline' action='' method='get'>
                                 <table class='table table-bordered' style="background-image: url('/images/tvform_bg.jpg'); background-repeat: no-repeat; background-size: 100% 100%; width: 902px;">
                                     <thead>
                                         <tr>
