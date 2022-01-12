@@ -771,7 +771,7 @@
                         <p>
                             <center>
                                 {!! $table !!}
-                                <div class='table-responsive'>
+                                {{-- <div class='table-responsive'>
                                     <table class='table table-bordered' style='border-width:2px; width: 902px; height:1200px;  background-image: url("images/bg2.jpg");'>
                                         <tbody>
                                             <tr>
@@ -1680,7 +1680,7 @@
                                     </tr>
                                     </tbody>
                                     </table>
-                                </div>
+                                </div> --}}
                                 <table class='table table-condensed' style='width: 902px; height:20px;'>
                                     <tr>
                                         <td>
