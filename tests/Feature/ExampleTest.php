@@ -27,7 +27,7 @@ class ExampleTest extends TestCase
             $month = date('m', $i);
             $day = date('d', $i);
             $gio = date('h', $i);
-            print_r( PHP_EOL . "curl -s 'https://xemtuong.test/la-so-tu-vi?name=name&isLunar=&day=$day&month=$month&year=$year&gio=$gio&phut=00&fixhour=0&gender=1&year_xem=2022&submit=Submit' > /dev/null" );
+            print_r( PHP_EOL . "curl -s 'https://xemtuong.test/la-so-tu-vi?name=name&isLunar=&day=$day&month=$month&year=$year&gio=$gio&phut=00&fixhour=0&gender=0&year_xem=2022&submit=Submit' > /dev/null" );
             // $response = $this->get("/la-so-tu-vi?name=name&isLunar=&day=$day&month=$month&year=$year&gio=$gio&phut=00&fixhour=0&gender=0&year_xem=2021&submit=Submit");
             // $response->assertStatus(200);
             $count++;

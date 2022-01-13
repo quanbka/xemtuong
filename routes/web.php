@@ -13,3 +13,4 @@
 
 Route::get('/', 'IndexController@redirect');
 Route::get('/la-so-tu-vi', 'IndexController@index');
+Route::get('/queue', 'IndexController@queue');

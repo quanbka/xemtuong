@@ -3,6 +3,7 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
+use App\Jobs\Crawl;
 use App\Tuvi;
 use View;
 
@@ -14,27 +15,16 @@ class IndexController extends Controller
     }
 
     public function index (Request $request) {
+        \Log::info($request->input('gio'));
         $tuvi = TuVi::firstOrCreate($request->only(config('fields')));
         if ($tuvi->active) {
             // code...
         } else {
-            $originUrl = $this->getOriginUrl(url()->full());
-            $tuvi->response = $this->sendRequest($originUrl);
-            $tuvi->table = $this->getTable($tuvi->response);
-
-            $tuvi->binh_giai = $this->getText($tuvi->response);
-
-            if (strpos($tuvi->binh_giai, 'Giới Thiệu')) {
-                $tuvi->active = true;
-            }
-
-
-
+            $url = $this->getOriginUrl(url()->full());
+            Crawl::dispatch($request->only(config('fields')), $url);
         }
 
-        $tuvi->table_md5 = md5($tuvi->table);
-        $tuvi->binh_giai_md5 = md5($tuvi->binh_giai);
-        $tuvi->save();
+
 
         View::share('table', $tuvi->table);
         View::share('text', $tuvi->binh_giai);
