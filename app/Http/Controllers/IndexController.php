@@ -3,6 +3,7 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
+use App\Tuvi;
 use View;
 
 class IndexController extends Controller
@@ -13,15 +14,31 @@ class IndexController extends Controller
     }
 
     public function index (Request $request) {
-        $originUrl = $this->getOriginUrl(url()->full());
-        // dd($originUrl);
-        $response = $this->sendRequest($originUrl);
-        View::share('response', $response);
-        View::share('table', $this->getTable($response));
-        View::share('text', $this->getText($response));
+        $tuvi = TuVi::firstOrCreate($request->only(config('fields')));
+        if ($tuvi->active) {
+            // code...
+        } else {
+            $originUrl = $this->getOriginUrl(url()->full());
+            $tuvi->response = $this->sendRequest($originUrl);
+            $tuvi->table = $this->getTable($tuvi->response);
+
+            $tuvi->binh_giai = $this->getText($tuvi->response);
+
+            $tuvi->active = true;
+
+        }
+
+        $tuvi->table_md5 = md5($tuvi->table);
+        $tuvi->binh_giai_md5 = md5($tuvi->binh_giai);
+        $tuvi->save();
+
+        View::share('table', $tuvi->table);
+        View::share('text', $tuvi->binh_giai);
+
         return view('tu-vi');
         return $response;
     }
+
 
     public function getOriginUrl ($url) {
         return str_replace(config('app.url') . 'la-so-tu-vi', 'http://chitay.xemtuong.net/an_sao_tu_vi/index.php', $url);
