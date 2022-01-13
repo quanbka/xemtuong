@@ -3,7 +3,7 @@
 namespace Tests\Feature;
 
 use Tests\TestCase;
-use Illuminate\Foundation\Testing\RefreshDatabase;
+// use Illuminate\Foundation\Testing\RefreshDatabase;
 
 class ExampleTest extends TestCase
 {
@@ -20,7 +20,19 @@ class ExampleTest extends TestCase
     }
 
     public function testAll () {
-        $response = $this->get('/la-so-tu-vi?name=Nguy%E1%BB%85n+H%E1%BB%93ng+Ph%C3%BAc&isLunar=&day=12&month=6&year=1984&gio=12&phut=59&fixhour=0&gender=1&year_xem=2021&submit=Submit');
-        $response->assertStatus(200);
+        $count = 0;
+        for ($i=-2208985200; $i <= -2108985200; $i = $i + 3600) {
+            // print_r(date('Y-m-d h:i:s' . PHP_EOL, $i));
+            $year = date('Y', $i);
+            $month = date('m', $i);
+            $day = date('d', $i);
+            $gio = date('h', $i);
+            print_r( PHP_EOL . "curl -s 'https://xemtuong.test/la-so-tu-vi?name=name&isLunar=&day=$day&month=$month&year=$year&gio=$gio&phut=00&fixhour=0&gender=1&year_xem=2022&submit=Submit' > /dev/null" );
+            // $response = $this->get("/la-so-tu-vi?name=name&isLunar=&day=$day&month=$month&year=$year&gio=$gio&phut=00&fixhour=0&gender=0&year_xem=2021&submit=Submit");
+            // $response->assertStatus(200);
+            $count++;
+        }
+        // print_r($count);
+
     }
 }
