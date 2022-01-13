@@ -24,7 +24,11 @@ class IndexController extends Controller
 
             $tuvi->binh_giai = $this->getText($tuvi->response);
 
-            $tuvi->active = true;
+            if (strpos($tuvi->binh_giai, 'Giới Thiệu')) {
+                $tuvi->active = true;
+            }
+
+
 
         }
 
@@ -41,7 +45,7 @@ class IndexController extends Controller
 
 
     public function getOriginUrl ($url) {
-        return str_replace(config('app.url') . 'la-so-tu-vi', 'http://chitay.xemtuong.net/an_sao_tu_vi/index.php', $url);
+        return str_replace(config('app.url') . 'la-so-tu-vi', 'http://tuvi.xemtuong.net/an_sao_tu_vi/index.php', $url);
     }
 
     public function sendRequest ($url) {
