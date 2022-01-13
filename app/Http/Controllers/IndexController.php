@@ -57,7 +57,7 @@ class IndexController extends Controller
         $doc->loadHTML($response);
         $xpath = new \DOMXPath($doc);
         $titles = $xpath->query('//html/body/div[1]/div/div/div[4]/center[2]/div');
-        return ($doc->saveHTML($titles->item(0)));
+        return $this->removeAds($doc->saveHTML($titles->item(0)));
     }
 
     public function getText ($response) {

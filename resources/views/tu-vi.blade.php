@@ -560,10 +560,10 @@
                                     </tr>
                                     <tr>
                                         <td colspan='2'>
-                                            <div class='dropdown'>
                                                  <a  class='btn btn-default' href='javascript:void(0)' onclick="downloadImage()"><span
                                                          class='glyphicon glyphicon-picture' aria-hidden='true'></span> File Hình</a>
-                                            </div>
+                                                 <a  class='btn btn-default' href='javascript:void(0)' onclick="downloadPdf()"><span
+                                                         class='glyphicon glyphicon-picture' aria-hidden='true'></span> In/Pdf</a>
                                         </td>
                                     </tr>
                                 </table>
@@ -608,6 +608,7 @@
 
 
     <script src="https://html2canvas.hertzen.com/dist/html2canvas.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.0/jspdf.umd.min.js"></script>
     <script>
         function downloadImage () {
             html2canvas(document.querySelector("#capture")).then(canvas => {
@@ -620,7 +621,15 @@
             });
         }
 
+        function downloadPdf() {
+            window.print();
+        }
+
     </script>
+
+
+
+
 </body>
 
 </html>
