@@ -1,0 +1,1949 @@
+<!DOCTYPE html>
+<html lang="en" itemscope itemtype="http://schema.org/WebPage">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title itemprop="name">Xem tu vi dau so bat tu tu binh xem tuong so chi tay not ruoi boi toan boi bai tarot xin sam gieo que van han kinh dich xem tuoi xem ngay tot giai mong phong thuy an sao la so bua ngai.</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta itemprop="description" name="description" content="Xemtuong.net chuyên xem tử vi, tứ trụ, bói toán, xem tướng, xin sâm, gieo quẻ, xem ngày online. Là trang web chiem tinh uy tính nhất và tốt nhất hiện nay để quý vị cầu tài, xem công danh, sự nghiệp, tình duyên, gia đạo.., xem online hoàn toàn miễn phí.">
+    <meta id="metakeywords" name="keywords" content="Xem tử vi,đẩu số,bát tự,tử bình,xem tướng số,chỉ tay,nốt ruồi,bói toán,bói bài tarot,xin sâm,gieo quẻ,vận hạn,kinh dịch,xem tuổi,xem ngày tốt,giải mộng,phong thủy,an sao lá số,bùa ngãi" />
+    <meta id="newskeywords" name="news_keywords" content="Xem tử vi,đẩu số,bát tự,tử bình,xem tướng số,chỉ tay,nốt ruồi,bói toán,bói bài tarot,xin sâm,gieo quẻ,vận hạn,kinh dịch,xem tuổi,xem ngày tốt,giải mộng,phong thủy,an sao lá số,bùa ngãi" />
+    <meta itemprop="author" name="author" content="XemTuong.net">
+    <meta itemprop="url" content="http://tuvi.xemtuong.net/admin.php" />
+    <meta name="robots" content="index,follow" />
+    <meta name="revisit-after" content="1 days" />
+    <meta property="og:type" content="article" />
+    <meta property="og:url"           content="http://tuvi.xemtuong.net/admin.php" />
+	<meta property="og:type"          content="website" />
+	<meta property="og:title"         content="Xem tử vi đẩu số bát tự tử bình xem tướng số chỉ tay nốt ruồi bói toán bói bài tarot xin sâm gieo quẻ vận hạn kinh dịch xem tuổi xem ngày tốt giải mộng phong thủy an sao lá số bùa ngãi." />
+	<meta property="og:description"   content="Xemtuong.net chuyên xem tử vi, tứ trụ, bói toán, xem tướng, xin sâm, gieo quẻ, xem ngày online. Là trang web chiem tinh uy tính nhất và tốt nhất hiện nay để quý vị cầu tài, xem công danh, sự nghiệp, tình duyên, gia đạo.., xem online hoàn toàn miễn phí." />
+	<meta property="og:image"         content="http://xemtuong.net/images/rand/7.jpg" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <!--<meta name="viewport" content="width=device-width, initial-scale=1">-->
+    <meta name="author" content="xemtuong.net">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://xemtuong.net/images/facebook_logo.jpg">
+<link rel="apple-touch-icon-precomposed" href="http://xemtuong.net/images/facebook_logo.jpg">
+<link rel="shortcut icon" href="http://xemtuong.net/favicon.ico">
+    <link href="/java/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="/java/assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+    <link href="/java/examples/offcanvas/offcanvas.css" rel="stylesheet">
+    <!--[if lt IE 9]><script src="/java/assets/js/ie8-responsive-file-warning.js"></script>
+	<![endif]-->
+    <script src="/java/assets/js/ie-emulation-modes-warning.js"></script>
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+<style>
+.read {font-family: Verdana; font-size: 16px; LINE-HEIGHT: 140%; text-align:justify;}
+.truyen_text {font-size:16px; line-height:140%; color:#333333; text-align:justify; padding-top:10px; font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;}
+.mota_text {font-size:19px; line-height:130%; color:#333333; text-align:justify; padding-top:1px; font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;}
+.jsArticleStep .stepNumber{margin-right:10px}
+.jsArticleStep .stepContent{margin-left:0}
+.jsArticleStep .stepNumber{float:left;width:30px;height:30px;line-height:30px;text-align:center;color:#fff;font-weight:700;background:url(/img/bg-step.png) no-repeat center center}
+.jsArticleStep .stepContent{margin-left:45px}.detail-content .article-source{text-align:right;font-weight:500;font-size:14px;color:#444}
+.how{list-style:circle; list-style-position:outside;}
+body {background:url("/images/bodybg2.jpg");}
+
+/* CSSTerm.com Simple CSS menu */
+.menu_simple ul {
+    margin: 0; 
+    padding: 0;
+    width:100%;
+    list-style-type: none;
+}
+
+.menu_simple ul li a {
+    background:url("/images/menu_icon.png") 2px 6px no-repeat;
+    text-decoration: none;
+    color: #666666; 
+    padding: 6px 25px;
+    display:block;
+    border-bottom: 1px dotted #CC6600;
+    background-color: #FFFFC1;
+}
+  
+.menu_simple ul li a:hover, .menu_simple ul li .current {
+    color: #FF0000;
+    background:url("/images/menu_icon_.png") 2px 6px no-repeat;
+    background-color: #FFFFDF;
+    text-decoration: none;
+}
+
+.title {
+    display:inline-block;
+    color:#FFCCFF;
+    font: 28px Tahoma;
+    letter-spacing: 1px;
+    font-weight: bold;
+    text-shadow: 1px 1px 1px #ef333f, 1px -1px 1px #ef333f, -1px 1px 1px #ef333f, -1px -1px 1px #ef333f;
+}
+
+.title1 {
+    display:inline-block;
+    color:#3399FF;
+    FONT-SIZE: 20px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    LINE-HEIGHT: 150%;
+    text-shadow: 2px 2px 2px #00205b, 1px -1px 1px #00205b, -1px 1px 1px #00205b, -1px -1px 1px #fff;
+}
+
+
+.title2 {
+    display:inline-block;
+    color:#FFCCFF;
+    font: 20px Tahoma;
+    letter-spacing: 1px;
+    font-weight: bold;
+    text-shadow: 1px 1px 1px #ef333f, 1px -1px 1px #fff, -1px 1px 1px #ef333f, -1px -1px 1px #ef333f;
+}
+H1 {
+    display:inline-block;
+    color:#FFCCFF;
+    font: 28px Tahoma;
+    letter-spacing: 1px;
+    font-weight: bold;
+    text-shadow: 1px 1px 1px #ef333f, 1px -1px 1px #ef333f, -1px 1px 1px #ef333f, -1px -1px 1px #ef333f;
+}
+</style>
+</head>
+
+
+<script>
+function ChangeFontSize(size) {
+		document.getElementById('fontchu').style.fontSize = size + "px";
+		}
+</script>
+<body>
+<nav class="navbar navbar-default navbar-fixed-top" style="background-image: url('/images/head_bg1.jpg');">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a href="/admin.php?hv=yes"><img border="0" src="https://tuvibattu.vn/wp-content/uploads/2020/12/tuvi-battu-png.png" alt="Trang Chủ XemTuong.net" title="Trang Chủ XemTuong.net"></a>
+        </div>
+        
+<!--topmenu-->
+<div id="navbar" class="collapse navbar-collapse">
+
+<!--drop menu-->       
+<ul class="nav navbar-nav">
+<li class="dropdown">
+<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Tướng Số<span class="caret"></span></a>
+<ul class="dropdown-menu">
+<li><a href="/tuong_so/nhan_tuong_hoc/index.php">Nhân Tướng Hoc <img border="0" src="/images/new.gif"></a></li>
+<li><a href="/tuong_so/lieu_trang_than_tuong/index.php">Liễu Trang Thần Tướng <img border="0" src="/images/new.gif"></a></li>
+<li><a href="/nth/index.php">Nhân Tướng Học</a></li>
+<li><a href="/nth/nhan_tuong_hoc_tong_hop/index.php">Tôi là thầy tướng số</a></li>
+<li><a href="/nth/xem_tuong_biet_nguoi/index.php">Xem tướng biết người</a></li>
+<li><a href="/tuong_phap_ao_bi/index.php">Tướng Pháp Ảo Bí</a></li>
+<li><a href="/tuong_menh_khao_luan/index.php">Tướng mệnh khảo luân</a></li>
+<li><a href="/nth/nghe_thuat_xem_tuong/index.php">Nghệ thuật xem tướng</a></li>
+<li><a href="/nguoi_dan_ba_trong_tuong_menh/index.php">Tướng mệnh đàn bà</a></li>
+<li><a href="/nth/ma-y-than-tuong/index.php">Ma Y Thần Tướng</a></li>
+<li><a href="/xemchitay/index.php">Xem chỉ tay </a></li>
+<li><a href="/phep_xem_chi_tay/index.php">Thuật xem chỉ tay</a></li>
+<li><a href="/tuong_so/ban_tay_va_van_menh/index.php">Bàn Tay & Vận Mệnh</a></li> 
+<li><a href="/tuong_so/nhan_dang_bai_tay/index.php">Nhận Dạng Bàn Tay</a></li> 
+<li><a href="/xem_chu_ky/index.php">Xem chữ ký </a></li>
+<li><a href="/tuong_so/xem_tuong_chu/index.php">Xem Tướng Chữ</a></li> 
+<li><a href="/show.php?id=tuongdi">Tướng đi</a></li>
+<li><a href="/show.php?id=notrui&htm=yes">Xem nốt ruồi</a></li>
+<li><a href="/nth/coi_tuong_dan_ba/index.php"> Coi tướng đàn bà </a></li>
+<li><a href="/nth/tuong_mao_va_sac_dien/index.php"> Tướng mạo và Sắc diện </a></li>
+<li><a href="/nth/giai_ma_cuoc_doi/index.php"> Giải mã cuộc đời </a></li>
+<li><a href="/nth/tieng_noi_cua_ban_tay/index.php"> Tiếng nói của bàn tay </a></li>
+</ul>
+</li>
+
+
+
+<!--drop menu-->       
+<li class="dropdown">
+<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Tử Vi-Tứ Trụ<span class="caret"></span></a>
+<ul class="dropdown-menu">
+
+<li class="dropdown-header"><span class="label label-success">Xem Tử Vi</span></li>
+<li><a href="/tuvi/2020_canh_ty/index.php">Tử Vi Năm Canh Tý 2020 <img border="0" src="/images/new.gif"></a></li>
+<li><a href="/an_sao_tu_vi/index.php"> Lá số tử vi & bình giải <img border="0" src="/images/new.gif"> <img border="0" src="/images/hot.gif"></a></li>
+<li><a href="/KHHB/tuvi/index.php"> Lá số tử vi & bình giải</a></li>
+<li><a href="/quicoctoanmenh/index.php"> Lá số Quỷ Cốc Toán Mệnh <img border="0" src="/images/new.gif"></a></li>
+<li><a href="/tuvi/tuvi_tron_doi/index.php">Tử Vi Trọn Đời</a></li>
+<li><a href="/tuvi/tu_vi_hang_tuan/index.php">Tử Vi Hàng Tuần</a></li>
+<li><a href="/baiviet.php?q=Học tử vi">Bài viết về Tử Vi</a></li>
+<li><a href="/baiviet.php?q=ý nghĩa sao">Ý nghĩa các sao</a></li>
+<li><a href="/baiviet.php?q=Đặc tính">Đặc tính các sao</a></li>
+
+<li role="separator" class="divider"></li>
+<li class="dropdown-header"><span class="label label-info">Xem Tứ Trụ</span></li>
+<li><a href="/KHHB/tubinh/index.php">Xem Bát Tự - Tử Bình (cũ)<img border="0" src="/images/hot.gif"></a></li>
+<li><a href="/KHHB/tu_binh_bat_tu_tru/index.php">Xem Bát Tự - Tử Bình (mới)<img border="0" src="/images/hot.gif"></a></li>
+
+
+<li role="separator" class="divider"></li>
+<li class="dropdown-header"><span class="label label-danger">Cho Con Yêu</span></li>
+<li><a href="/sinh_con/dat_ten_theo_ngu_hanh/index.php">Đặt tên con theo ngũ hành</a></li>
+<li><a href="/xem_ngu_hanh/index.php?action=hoten">Đặt tên con theo ngũ hành (cũ)</a></li>
+<li><a href="/xem_ngu_hanh/index.php?action=namsinhcon">Chọn năm sinh con</a></li>
+<li><a href="/KHHB/xem-tuoi-con/index.php">Xem Bói Cho Bé</a></li>
+<li><a href="/chon_gio_tot_sinh_mo.php">Chọn giờ tốt sinh mổ</a></li>
+</ul>
+</li>
+
+
+
+<!--drop menu-->       
+<li class="dropdown">
+<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Xem Ngày<span class="caret"></span></a>
+<ul class="dropdown-menu">
+<li><a href="/xem_ngay/index.php">Xem Ngày Vạn Sự <img border="0" src="/images/hot.gif"></a></li>
+<li><a href="/xem_ngay/tot_trong_thang/index.php">Xem ngày tốt trong tháng</a></li>
+<li><a href="/xem_ngay/xem_tuoi_xem_ngay/index.php">Xem Tuổi Xem Ngày</a></li>
+<li><a href="/xem_ngay/nhap_trach/index.php">Xem Ngày Chuyển Nhà Nhập Trạch</a></li>
+<li><a href="/xem_ngay/xuat_hanh/index.php">Xem Ngày Xuất Hành</a></li>
+<li><a href="/xem_ngay/xem_gio_tot/index.php">Xem giờ Tốt </a></li>
+<li><a href="/xem_ngay/xem_ngay_cuoi/index.php">Xem Ngày Cưới Hỏi <img border="0" src="/images/hot.gif"></a></li>
+<li><a href="/xem_ngay/cau_tai_khai_truong/index.php">Xem ngày khai trương</a></li>
+<li><a href="/xem_ngay/cau_tai_khai_truong/ky_hop_dong.php">Xem ngày ký hợp đồng</a></li>
+<li><a href="/xem_ngay/xay_dung/muabannha.php">Xem ngày mua nhà</a></li>
+<li><a href="/xem_ngay/xay_dung/index.php">Xem ngày xây nhà sửa nhà</a></li>
+<li><a href="/xem_ngay/mua_xe/index.php">Xem ngày tốt mua xe </a></li>
+<li><a href="/xem_ngay/suc_khoe/index.php">Xem ngày chữa bệnh, đi thẩm mỹ</a></li>
+<li><a href="/xem_ngay/nop_don/index.php">Xem ngày nộp đơn nộp hồ sơ </a></li>
+<li><a href="/xem_ngay/chon_cat/index.php">Xem ngày chôn cất ma chay </a></li>
+<li><a href="/boi/lich_van_su/index.php">Lịch Ông Đồ</a></li>
+<li><a href="/boi/tam_tong_mieu/index.php">Tam Tông Miếu Xem Ngày</a></li>
+<li><a href="/boi/xem_ngay_tot_xau/index.php">Xem Ngày Tốt Xấu</a></li>
+<li><a href="/phong_tuc_viet_nam/van_cung/index.php">Các bài văn khấn<img border="0" src="/images/hot.gif"></a></li>
+</ul>
+</li>
+
+
+
+<li class="dropdown">
+<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Xem Tuổi-Xem Bói<span class="caret"></span></a>
+<ul class="dropdown-menu">
+<li class="dropdown-header"><span class="label label-success">Xem Tuổi</span></li>
+<li><a href="/boi/thien_van_van_so/index.php">Thiên Văn Vận Số <img border="0" src="/images/hot.gif"></a></li>
+<li><a href="/boi/diem_cam_tam_the/index.php">Xem Bói Thầy Tư <img border="0" src="/images/hot.gif"></a></li>
+<li><a href="/boi/xem_tuoi_ket_hon/index.php">Coi tuổi kết hôn <img border="0" src="/images/hot.gif"></a></li>
+<li><a href="/boi/xem_tuoi_vo_chong/index.php">Xem tuổi vợ chồng <img border="0" src="/images/hot.gif"></a></li>
+<li><a href="/canduyentiendinh/index.php">Căn Duyên Tiền Định</a></li>
+<li><a href="/xem_ngay/xem_sao_han/index.php">Xem Sao Hạn năm Canh Tý 2020</a></li>
+<li><a href="/boi/xong_nha_nam_moi/index.php">Xem tuổi xông nhà năm Canh Tý 2020 <img border="0" src="/images/hot.gif"></a></li>
+<li><a href="/xem_ngu_hanh/index.php?action=xemtuoi">Xem tuổi xây nhà</a></li>
+<li><a href="/caolydauhinh/index.php">Cao Ly Đầu Hình</a></li>
+
+<li role="separator" class="divider"></li>
+<li class="dropdown-header"><span class="label label-danger">Xem Bói</span></li>
+<li><a href="/boi/boi_bai/index.php">Bói Bài</a></li>
+<li><a href="/boi/boi_bai_hang_ngay/index.php">Bói Bài Hàng Ngày <img border="0" src="/images/new.gif"></a></li>
+<li><a href="/boi/boi_bai_tarot/hang_ngay/index.php">Bói Bài Tarot Hôm Nay <img border="0" src="/images/new.gif"></a></li>
+<li><a href="/boi/boi_bai_tarot/hang_tuan/index.php">Bói Bài Tarot Tuần Này <img border="0" src="/images/new.gif"></a></li>
+<li><a href="/boi/boi_bai_tarot/hang_thang/index.php">Bói Bài Tarot Tháng Này <img border="0" src="/images/new.gif"></a></li>
+<li><a href="/boi/boi_bai_tarot/boi_go_roi/index.php">Bói Bài Gỡ Rối <img border="0" src="/images/new.gif"></a></li>
+<li><a href="/boi/boi_bai_tinh_yeu/index.php">Bói Bài Tình Yêu</a></li>
+<li><a href="/boi/boi_kieu/index.php">Bói Kiều</a></li>
+<li><a href="/boi/boi_kieu2/index.php">Bói Kiều 2 <img border="0" src="/images/new.gif"></a></li>
+<li><a href="/boi/boi_ten/index.php">Thần số học Bói tên</a>
+<li><a href="/boivui/index.php">Bói Tâm Lý</a></li>
+<li><a href="/xem_ngu_hanh/index.php?action=xemsodep">Xem và chọn số đẹp</a></li>
+<li><a href="/xem_ngu_hanh/index.php?action=tinhyeu">Xem tình duyên</a></li>
+<li><a href="/show.php?id=notrui&htm=yes">Xem bói nốt ruồi</a></li>
+<li><a href="/boi/boi_not_ruoi/index.php">Xem bói nốt ruồi tổng hợp <img border="0" src="/images/new.gif"></a></li>
+<li><a href="/boi/xem_hoa_tay/index.php">Xem bói hoa tay <img border="0" src="/images/new.gif"></a></li>
+<li><a href="/show.php?id=xem_chi_tay">Xem bói chỉ tay <img border="0" src="/images/new.gif"></a></li>
+<li><a href="/boi/doan_thoi_van/index.php">Dự đoán thời vận<img border="0" src="/images/new.gif"></a></li>
+</ul>
+</li>
+
+
+<li class="dropdown">
+<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Gieo Quẻ<span class="caret"></span></a>
+<ul class="dropdown-menu">
+<li><a href="/boi/gieo_que_dau_nam/index.php">Bói quẻ đầu năm <img border="0" src="/images/new.gif"></a></li>
+<li><a href="/gieo_que_dich_so/index.php">Gieo Quẻ Dịch Số mới <img border="0" src="/images/new.gif"></a></li>
+<li><a href="/bat_tu_ha_lac/index.php">Bát Tự Hà Lạc mới <img border="0" src="/images/new.gif"></a></li>
+<li><a href="/hoa_mai_dich_so/index.php">Mai Hoa Dịch Số mới <img border="0" src="/images/new.gif"></a></li>
+<li><a href="/lac_viet_don_toan/index.php">Lạc Việt Độn Toán <img border="0" src="/images/new.gif"></a></li>
+<li><a href="/xem_ngu_hanh/index.php?action=halaclyso">Hà Lạc Lý Số</a></li>
+<li><a href="/xem_ngu_hanh/index.php?action=maihoadichso">Mai Hoa Dịch Số</a></li>
+<li><a href="/boi/gieo_que_hoi_viec/index.php">Gieo Quẻ Hỏi Việc <img border="0" src="/images/hot.gif"></a></li>
+<li><a href="/boi/gieo_que_hoi_viec2/index.php">Gieo Quẻ Hỏi Việc 2 <img border="0" src="/images/hot.gif"></a></li>
+<li><a href="/boi/gieo_que_ho_ten/index.php">Gieo Quẻ Họ Tên <img border="0" src="/images/hot.gif"></a></li>
+<li><a href="/boi/que_dich_phuc_hy/index.php">Quẻ Dịch Phục Hy</a></li>
+<li><a href="/boi/que_quy_coc/index.php">Quỉ Cốc Thần Quẻ</a></li>
+<li><a href="/boi/que_thai_at/index.php">Thái Ất Thần Quẻ</a></li>
+<li><a href="/boi/que_quan_am/index.php">Quẻ Quán Âm</a></li>
+<li><a href="/boi/quan_am_linh_que/index.php">Quán Âm Linh Quẻ <img border="0" src="/images/hot.gif"></a></li>
+<li><a href="/boi/que_khong_minh/index.php">Khổng Minh Thần Quẻ</a></li>
+<li><a href="/boi/que_te_cong/index.php">Quẻ Tế Công</a></li>
+<li><a href="/boi/gieo_que_dich_so/index.php">Gieo Quẻ Dịch Số</a></li>
+<li><a href="/boi/xem_que/index.php">Gieo Quẻ 12 Con Giáp <img border="0" src="/images/new.gif"></a></li>
+<li><a href="/boi/xam_ta_quan/index.php">Xăm Tả Quân</a></li>
+<li><a href="/boi/xam_quan_am/index.php">Xăm Quán Âm</a></li>
+<li><a href="/boi/xam_quan_thanh/index.php">Xăm Quan Thánh</a></li>
+</ul>
+</li>
+
+<li class="dropdown">
+<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Phong Thủy<span class="caret"></span></a>
+<ul class="dropdown-menu">
+<li><a href="/xem_ngu_hanh/index.php?action=venha">Bát Trạch Minh Cảnh <img border="0" src="/images/hot.gif"></a></li>
+<li><a href="/xem_ngu_hanh/index.php?action=botri">Bố trí nội thất</a></li>
+<li><a href="/xem_ngu_hanh/index.php?action=dinhmuc">Định mức cấp phối vật liệu XD</a></li>
+<li><a href="/xem_ngu_hanh/index.php?action=dutoan">Dự toán chi tiết nhà ở</a></li>
+<li><a href="/xem_ngu_hanh/index.php?action=garden">Màu sắc sân vườn</a></li>
+<li><a href="/xem_ngu_hanh/index.php?action=khaitoan">Khái toán sơ lược nhà ở</a></li>
+<li><a href="/phongthuy/thuoc_lo_ban/index.php">Thước Lỗ Ban Đủ 3 Loại <img border="0" src="/images/new.gif"></a></li>
+<li><a href="/xem_ngu_hanh/index.php?action=loban">Thước Lỗ Ban đo hung cát</a></li>
+<li><a href="/xem_ngu_hanh/index.php?action=mauson">Chọn sơn nhà theo phong thủy</a></li>
+<li><a href="/xem_ngu_hanh/index.php?action=thietbi">Chọn thiết bị trong phòng</a></li>
+<li><a href="/xem_ngu_hanh/index.php?action=thoitrang">Thời trang theo phong thủy</a></li>
+<li><a href="/xem_ngu_hanh/index.php?action=vanphong">Phong thủy văn phòng</a></li>
+<li><a href="/xem_ngu_hanh/index.php?action=vatlieu">Dự trù vật tư xây nhà</a></li>
+<li><a href="/xem_ngu_hanh/index.php?action=xemnha">Tính sao cho nhà ở</a></li>
+<li><a href="/xem_ngu_hanh/index.php?action=xemtuoi">Xem tuổi xây nhà</a></li>
+<li><a href="/phongthuy/bi-an-ve-phong-thuy/index.php">Bí ẩn về phong thuỷ</a></li>
+<li><a href="/phongthuy/chon_huong_nha_va_bo_cuc_noi_that/index.php">Chọn hướng nhà</a></li>
+<li><a href="/phongthuy/dia-ly-phong-thuy/index.php">Địa lý phong thuỷ</a></li>
+<li><a href="/phongthuy/duong-co-chung-giai/index.php">Dương cơ chứng giải</a></li>
+<li><a href="/phongthuy/hong_vu_cam_thu/index.php">Hồng Thuỷ Cấm Thư</a></li>
+<li><a href="/phongthuy/huong_nam/index.php">Chọn hướng kê giuờng</a></li>
+<li><a href="/phongthuy/index.php">Thuật Phong Thuỷ</a></li>
+<li><a href="/phongthuy/kien_ky_khi_chon_dat_lam_nha.php">Kiên kỵ khi chọn đất làm nhà</a></li>
+<li><a href="/phongthuy/nhung-dieu-can-biet-ve-phong-thuy/index.php">Cần biết về phong thuỷ</a></li>
+<li><a href="/phongthuy/phong_thuy_hoc/index.php">Phong Thuỷ Học</a></li>
+<li><a href="/baiviet.php?q=Phong Thủy">Phong Thủy tổng hợp</a></li>
+<li><a href="/baiviet.php?q=Lễ hội">Lễ hội các vùng miền</a></li>
+<li><a href="/phongthuy/book/bat_trach_minh_kinh/index.php">Bát Trạch Minh Kính</a></li>
+<li><a href="/phongthuy/book/chon_huong_nha_huong_dat/index.php">Chọn hướng nhà đất</a></li>
+<li><a href="/phongthuy/book/dia_ly_toan_thu1/index.php">Địa lý toàn thư 1</a></li>
+<li><a href="/phongthuy/book/dia_ly_toan_thu2/index.php">Địa lý toàn thư 2</a></li>
+<li><a href="/phongthuy/book/dia_ly_toan_thu3/index.php">Địa lý toàn thư 3</a></li>
+<li><a href="/phongthuy/book/huong_dan_su_dung_thuoc_lo_ban/index.php">Hướng đẫn dùng thước LB</a></li>
+<li><a href="/phongthuy/book/la_ban_phong_thuy/index.php">La bàn phong thủy</a></li>
+<li><a href="/phongthuy/book/phong_thuy_quan_canh/index.php">Phong thủy quan cảnh</a></li>
+<li><a href="/phongthuy/book/phong_thuy_tai_vuong/index.php">Phong thủy tài vượng</a></li>
+<li><a href="/phongthuy/book/phong_thuy_vuon_canh/index.php">Phong Thủy Vườn Cảnh</a></li>
+<li><a href="/phongthuy/book/sac_mau_trong_cuoc_song/index.php">Sắc màu trong cuộc sống</a></li>
+</ul>
+</li>
+</ul><!--drop menu-->
+
+</div><!-- /.nav-collapse -->
+</div><!-- /.container -->
+</nav><!-- /.navbar -->
+
+
+<div class="container">
+<div class="row">
+<!--body--><div class="col-sm-9 blog-main"><div class="fb-share-button" data-href="http://tuvi.xemtuong.net/admin.php" data-layout="button_count" data-size="small" data-mobile-iframe="true"><a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http://tuvi.xemtuong.net/admin.php"><b>Hãy chia sẻ lên Facebook</b></a></div> <div class="g-plusone" data-size="small" data-annotation="inline" data-width="300"></div> <p><div class='alert alert-danger'><button type='button' class='close' data-dismiss='alert'>&times;</button><p><h4>Thông Báo Chuyên Mục Mới!</h4>
+Kính thưa Qúy Vị,<br>
+Chúng tôi vừa phát hành mục xem <a href='/boi/thien_van_van_so/index.php'>Thiên Văn Vận Số</a>, được XemTuong.net phát triển đựa theo tài liệu xưa cũ cùng tên. 
+Đôi lúc có nhiều sự việc mà không biết thành bại thế nào thì hãy xem mục Thiên Văn Vận Số này, thì sẽ biết chuyện đang làm thành hay bại, từ đó sẽ quyết đoán công việc được phân minh và tránh tổn thất nhất.
+Mục này rất hay, xem được thời vận và số phận mỗi người, linh nghiệm vô cùng. 
+</p>
+<p>
+Qúy vị hãy cố gắng chia sẽ trang Xemtuong.net lên Facebook để nhiều người biết và chúng tôi sẽ tiếp tục phát triển nhiều ứng đụng hay để phục vụ quý vị.
+</p>
+Trân Trọng!<br>
+<b>XemTuong.net</b>
+</div><p> 
+<style>
+.categories{border-top:0px solid #c7bea2;border-bottom:0px solid #c7bea2; padding-left:5px; padding-right:5px; padding-top:5px; padding-bottom:5px; background-image:url(/images/submenu_bg.jpg); text-decoration: none;}
+.categories>ul{padding:0}
+.categories .parent-cate{width:22%;overflow:hidden;margin-bottom:5px;float:left;position:relative;list-style:none;padding:0}
+.categories .parent-cate .sub-cate{font-size:12px;}
+section.categories ul{padding-left:0;list-style:none;}
+.clearfix:before,.clearfix:after,.container:before,.container:after,.container-fluid:before,.container-fluid:after,.row:before,.row:after,.form-horizontal .form-group:before,.form-horizontal .form-group:after,.btn-toolbar:before,.btn-toolbar:after,.btn-group-vertical>.btn-group:before,.btn-group-vertical>.btn-group:after,.nav:before,.nav:after,.navbar:before,.navbar:after,.navbar-header:before,.navbar-header:after,.navbar-collapse:before,.navbar-collapse:after,.pager:before,.pager:after,.panel-body:before,.panel-body:after,.modal-footer:before,.modal-footer:after{content:" ";display:table}.clearfix:after,.container:after,.container-fluid:after,.row:after,.form-horizontal .form-group:after,.btn-toolbar:after,.btn-group-vertical>.btn-group:after,.nav:after,.navbar:after,.navbar-header:after,.navbar-collapse:after,.pager:after,.panel-body:after,.modal-footer:after{clear:both}
+
+.categories ul li a:hover{
+    color: red;
+    background-color: #5FD367;
+    background:url("/images/bodybg.jpg");
+}
+
+.categories ul li a {
+    text-decoration: none;
+    color: #772600; 
+    padding: 6px 6px;
+    display:block;
+    border-bottom: 1px dotted black;
+}
+
+ul.favi_big2 {
+	float: left;
+	list-style:none;
+}
+ul.favi_big2 li {
+	float: left;
+	width: 160px;
+	height: 75px;
+	padding-left:1px;
+	margin-bottom:12px;
+	text-align: center;
+	z-index: 5;
+	font-size: 16px;
+	height: 120px;
+}
+ul.favi_big2 li p.name2 {
+	display: block;
+	width: 160px;
+	text-align:center;
+	height: 120px;
+}
+
+img.favi {
+	background-repeat: no-repeat;
+	background-position: center;
+	text-align: center;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	-ms-border-radius: 5px;
+	-o-border-radius: 5px;
+	border-radius: 5px;
+	border: #fff solid 1px;
+}
+img.favi:hover{
+	border:#1198b6 solid 2px
+}
+
+a.hotlink2:link { color:#006666; text-decoration: none;  FONT-SIZE: 15px}
+a.hotlink2:hover { color:#FF3300; text-decoration: none; FONT-SIZE: 15px}
+</style>
+
+<style>
+@charset "utf-8";
+@font-face {font-family: 'ongdo'; src:url(/font/ong_do.ttf);}
+.cadao{
+    font-family:"ongdo";
+    color:#000;
+    font-size:25px;
+   LINE-HEIGHT: 120%;
+   letter-spacing: 1px;
+}
+</style>
+<div class='alert alert-success' role='alert'><center><font size='5'>Tam Tông Miếu</font><br>Xem ngày hôm nay nên làm việc gì? <hr><div class='form-group'><form class='form-inline' action='/boi/tam_tong_mieu/index.php' method='get'>
+<input type='text' class='form-control' placeholder='Năm Sinh' name='namsinh' value='' size='8'>
+ <select size='1' name='day' class='form-control'>
+ <option value='18'>ngày xem 18</option>
+ <option value='01'>ngày 01</option>
+ <option value='02'>ngày 02</option>
+ <option value='03'>ngày 03</option>
+ <option value='04'>ngày 04</option>
+ <option value='05'>ngày 05</option>
+ <option value='06'>ngày 06</option>
+ <option value='07'>ngày 07</option>
+ <option value='08'>ngày 08</option>
+ <option value='09'>ngày 09</option>
+ <option value='10'>ngày 10</option>
+ <option value='11'>ngày 11</option>
+ <option value='12'>ngày 12</option>
+ <option value='13'>ngày 13</option>
+ <option value='14'>ngày 14</option>
+ <option value='15'>ngày 15</option>
+ <option value='16'>ngày 16</option>
+ <option value='17'>ngày 17</option>
+ <option value='18'>ngày 18</option>
+ <option value='19'>ngày 19</option>
+ <option value='20'>ngày 20</option>
+ <option value='21'>ngày 21</option>
+ <option value='22'>ngày 22</option>
+ <option value='23'>ngày 23</option>
+ <option value='24'>ngày 24</option>
+ <option value='25'>ngày 25</option>
+ <option value='26'>ngày 26</option>
+ <option value='27'>ngày 27</option>
+ <option value='28'>ngày 28</option>
+ <option value='29'>ngày 29</option>
+ <option value='30'>ngày 30</option>
+ <option value='31'>ngày 31</option>
+</select>
+<select size='1' name='month' class='form-control'>
+<option value='09'>tháng xem 09</option>
+<option value='01'>tháng 01</option>
+<option value='02'>tháng 02</option>
+<option value='03'>tháng 03</option>
+<option value='04'>tháng 04</option>
+<option value='05'>tháng 05</option>
+<option value='06'>tháng 06</option>
+<option value='07'>tháng 07</option>
+<option value='08'>tháng 08</option>
+<option value='09'>tháng 09</option>
+<option value='10'>tháng 10</option>
+<option value='11'>tháng 11</option>
+<option value='12'>tháng 12</option>
+</select>
+<input type='text' class='form-control' placeholder='2020' name='year' value='2020' size='5'>
+<input type='submit' value='Submit' name='submit' class='form-control'>
+</form></div> <div class='cadao'><i>Lắm mối tối nằm không
+</i></div> </center></div>
+<div class='list-group'>
+<a href='#' class='list-group-item active'><b><span class='glyphicon glyphicon-thumbs-up' aria-hidden='true'></span> Chuyên Mục Mới</b></a>
+<font size='5'><a class='list-group-item' href='/tuvi/2020_canh_ty/index.php'><strong><font color='#FF0000'>Thái Ất Tử Vi năm Canh Tý 2020</font> <img border='0' src='/images/new.gif'></strong></a></font>
+<font size='5'><a class='list-group-item' href='/baiviet.php'><strong>Các bài viết tổng hợp về Tử vi & Tướng số <img border='0' src='/images/new.gif'></strong></a></font>
+<font size='5'><a class='list-group-item' href='/tuvi/tu_vi_hang_tuan/index.php'><strong>Tử Vi Hàng Tuần Từ Ngày <span class='text-primary'>14/09/2020</span> Đến <span class='text-danger'>20/09/2020</span>  <img border='0' src='/images/new.gif'></strong></a></font>
+</div> 
+
+<style>
+@charset "utf-8";
+@font-face {font-family: 'ongdo'; src:url(/font/ong_do.ttf);}
+.thuphap{
+    font-family:"ongdo";
+    color:#000;
+    font-size:25px;
+   LINE-HEIGHT: 120%;
+   letter-spacing: 1px;
+}
+
+.head2 {
+    display:inline-block;
+    color:red;
+    FONT-SIZE: 80px;
+    font-weight: bold;
+    letter-spacing: 5px;
+    LINE-HEIGHT: 120%;
+    text-shadow: 2px 2px 2px #00205b, 1px -1px 1px #00205b, -1px 1px 1px #00205b, -1px -1px 1px #00205b;
+}
+
+.head3 {
+    display:inline-block;
+    color:#00CC99;
+    FONT-SIZE: 80px;
+    font-weight: bold;
+    letter-spacing: 5px;
+    LINE-HEIGHT: 120%;
+    text-shadow: 2px 2px 2px #00205b, 1px -1px 1px #00205b, -1px 1px 1px #00205b, -1px -1px 1px #00205b;
+}
+
+.head4 {
+    display:inline-block;
+    color:#FF0066;
+    FONT-SIZE: 40px;
+    font-weight: bold;
+    letter-spacing: 5px;
+    LINE-HEIGHT: 120%;
+    text-shadow: 2px 2px 2px #00205b, 1px -1px 1px #00205b, -1px 1px 1px #00205b, -1px -1px 1px #00205b;
+}
+
+</style>
+<div class='bs-example' data-example-id='bordered-table'>
+<table class='table table-bordered' ><thead>
+<tr class='success'> <th colspan='2'><b><center><font size='4'>LỊCH VẠN NIÊN NGÀY 18 THÁNG 09 NĂM 2020</font></center></b></th></tr>
+</thead>
+<tbody>
+<tr><td width='50%' class='warning'>
+
+<p align='center'>
+<span class='label label-danger'>Lịch Dương</span>
+<br>
+<b>Ngày 18 Tháng 09 năm 2020</b>
+<br>
+<span class='head2'>18</span>
+<p align='center'>
+<img border='0' src='/xem_ngay/img/1.png'>
+<br>
+<font size='4'><span class='label label-success'>11:08 - Thứ Sáu </span></font>
+
+</td><td width='50%' class='danger'>
+
+<p align='center'>
+<span class='label label-primary'>Lịch Âm</span>
+<br>
+<b>Ngày 02 Tháng 08 năm 2020</b>
+<br>
+<span class='head3'>02</span>
+<p align='center'>
+Giờ <b>Canh Ngọ</b> VN, Ngày <b>Giáp Tý</b>
+<br>
+Tháng <b>Ất Dậu</b>, Năm <b>Canh Tý</b>
+<br>
+Là ngày <b>Tư Mệnh <font color=red><b>Hoàng Đạo</b></font></b>, <b>Trực <font color=red>Bình</font></b>
+<br> Tiết Khí: Bạch lộ (Nắng nhạt) - Kinh độ mặt trời 165°
+
+
+</td></tr>
+<tr><td colspan='2'>
+			<p align='center'>
+			<span class='head4'><font color=#FF6666>Ngày Tương đối Tốt</font></span>
+			<p align='center'><div class='thuphap'><center><i>Tôi nghĩ và nghĩ hàng năm hàng tháng. Chín mươi chín lần tôi đi tới kết luận sai lầm. Lần thứ một trăm tôi đúng.<!---->                                                                                                                       
+</i></center></div>
+			<br>
+			<center><form class="form-inline" action="/xem_ngay/index.php" method="get">
+
+<div class="form-group">
+<select size="1" name="al" class="form-control"><option value="" selected>Dương Lịch</option><option value="1">Âm Lịch</option></select>
+</div>
+  
+<div class="form-group">
+<select size="1" name="day" class="form-control">
+ <option value="18">ngày 18</option>
+ <option value="01">ngày 01</option>
+ <option value="02">ngày 02</option>
+ <option value="03">ngày 03</option>
+ <option value="04">ngày 04</option>
+ <option value="05">ngày 05</option>
+ <option value="06">ngày 06</option>
+ <option value="07">ngày 07</option>
+ <option value="08">ngày 08</option>
+ <option value="09">ngày 09</option>
+ <option value="10">ngày 10</option>
+ <option value="11">ngày 11</option>
+ <option value="12">ngày 12</option>
+ <option value="13">ngày 13</option>
+ <option value="14">ngày 14</option>
+ <option value="15">ngày 15</option>
+ <option value="16">ngày 16</option>
+ <option value="17">ngày 17</option>
+ <option value="18">ngày 18</option>
+ <option value="19">ngày 19</option>
+ <option value="20">ngày 20</option>
+ <option value="21">ngày 21</option>
+ <option value="22">ngày 22</option>
+ <option value="23">ngày 23</option>
+ <option value="24">ngày 24</option>
+ <option value="25">ngày 25</option>
+ <option value="26">ngày 26</option>
+ <option value="27">ngày 27</option>
+ <option value="28">ngày 28</option>
+ <option value="29">ngày 29</option>
+ <option value="30">ngày 30</option>
+ <option value="31">ngày 31</option>
+</select>
+</div>
+
+<div class="form-group">
+<select size="1" name="month" class="form-control">
+<option value="09">tháng 09</option>
+<option value="01">tháng 01</option>
+<option value="02">tháng 02</option>
+<option value="03">tháng 03</option>
+<option value="04">tháng 04</option>
+<option value="05">tháng 05</option>
+<option value="06">tháng 06</option>
+<option value="07">tháng 07</option>
+<option value="08">tháng 08</option>
+<option value="09">tháng 09</option>
+<option value="10">tháng 10</option>
+<option value="11">tháng 11</option>
+<option value="12">tháng 12</option>
+</select>
+</div>
+
+<div class="form-group">
+<input type="text" maxlength="4" name="year" size="6" value="2020" class="form-control" id="exampleInputName2">
+</div>
+  <button type="submit" class="btn btn-default">Xem Chi Tiết</button>
+</form></center>
+</td></tr>
+</tbody></table></div> <p><form class='form-inline' action='/an_sao_tu_vi/index.php' method='get'>
+<table class='table table-bordered' style="background-image: url('/images/tvform_bg.jpg'); background-repeat: no-repeat; background-size: 100% 100%; width: 100%; "><thead>
+		<tr>
+			<td colspan='2'>
+			<div align='center'><div class='title2'>An sao Tử vi và Bình giải</div></td>
+		</tr>
+		</thead>
+<tbody>
+		<tr>
+			<td>
+			<div align='right'><b>Họ Tên</b></td>
+			<td><div align='left'>
+<input type='text' class='form-control' id='exampleInputName2' placeholder='Họ Tên' name='name' value='Nguyễn Hồng Phúc' size='35'>
+</td>
+		</tr>
+		<tr>
+			<td>
+			<div align='right'><b>Ngày Sinh</b></td>
+			<td><div align='left'>
+
+<div class='form-group'>
+<select size='1' name='isLunar' class='form-control'>
+<option value='' selected>Dương Lịch</option>
+<option value='1' >Âm Lịch</option>
+</select>
+</div>
+
+<div class='form-group'>
+ <select size='1' name='day' class='form-control'>
+  <option value='17'>ngày 17</option>
+ <option value='01'>ngày 01</option>
+ <option value='02'>ngày 02</option>
+ <option value='03'>ngày 03</option>
+ <option value='04'>ngày 04</option>
+ <option value='05'>ngày 05</option>
+ <option value='06'>ngày 06</option>
+ <option value='07'>ngày 07</option>
+ <option value='08'>ngày 08</option>
+ <option value='09'>ngày 09</option>
+ <option value='10'>ngày 10</option>
+ <option value='11'>ngày 11</option>
+ <option value='12'>ngày 12</option>
+ <option value='13'>ngày 13</option>
+ <option value='14'>ngày 14</option>
+ <option value='15'>ngày 15</option>
+ <option value='16'>ngày 16</option>
+ <option value='17'>ngày 17</option>
+ <option value='18'>ngày 18</option>
+ <option value='19'>ngày 19</option>
+ <option value='20'>ngày 20</option>
+ <option value='21'>ngày 21</option>
+ <option value='22'>ngày 22</option>
+ <option value='23'>ngày 23</option>
+ <option value='24'>ngày 24</option>
+ <option value='25'>ngày 25</option>
+ <option value='26'>ngày 26</option>
+ <option value='27'>ngày 27</option>
+ <option value='28'>ngày 28</option>
+ <option value='29'>ngày 29</option>
+ <option value='30'>ngày 30</option>
+ <option value='31'>ngày 31</option>
+</select>
+</div>
+
+<div class='form-group'>
+<select size='1' name='month' class='form-control'>
+<option value='09'>tháng 09</option>
+<option value='01'>tháng 01</option>
+<option value='02'>tháng 02</option>
+<option value='03'>tháng 03</option>
+<option value='04'>tháng 04</option>
+<option value='05'>tháng 05</option>
+<option value='06'>tháng 06</option>
+<option value='07'>tháng 07</option>
+<option value='08'>tháng 08</option>
+<option value='09'>tháng 09</option>
+<option value='10'>tháng 10</option>
+<option value='11'>tháng 11</option>
+<option value='12'>tháng 12</option>
+</select>
+</div>
+
+<div class='form-group'>
+<input type='text' class='form-control' placeholder='1985' name='year' value='1984' size='5'>
+</div>
+
+</td>
+		</tr>
+		<tr>
+			<td>
+			<div align='right'><b>Giờ Sinh</b></td>
+			<td><div align='left'>
+			
+<div class='form-group'>
+<select name='gio' class='form-control'>
+<option value='1' >1h Sửu</option>
+<option value='2' >2h Sửu</option>
+<option value='3' >3h Dần</option>
+<option value='4' >4h Dần</option>
+<option value='5' >5h Mão</option>
+<option value='6' >6h Mão</option>
+<option value='7' >7h Thìn</option>
+<option value='8' >8h Thìn</option>
+<option value='9' >9h Tị</option>
+<option value='10' >10h Tị</option>
+<option value='11' >11h Ngọ</option>
+<option value='12' >12h Ngọ</option>
+<option value='13' >13h Mùi</option>
+<option value='14' >14h Mùi</option>
+<option value='15' >15h Thân</option>
+<option value='16' >16h Thân</option>
+<option value='17' >17h Dậu</option>
+<option value='18' >18h Dậu</option>
+<option value='19' >19h Tuất</option>
+<option value='20' >20h Tuất</option>
+<option value='21' >21h Hợi</option>
+<option value='22' >22h Hợi</option>
+<option value='23' >23h Tý</option>
+<option value='24' >24h Tý</option>
+</select>
+</div>
+
+<div class='form-group'>
+<select name='phut' class='form-control'>
+<option value='00' >00 phút</option>
+<option value='01' selected>01 phút</option>
+<option value='02' >02 phút</option>
+<option value='03' >03 phút</option>
+<option value='04' >04 phút</option>
+<option value='05' >05 phút</option>
+<option value='06' >06 phút</option>
+<option value='07' >07 phút</option>
+<option value='08' >08 phút</option>
+<option value='09' >09 phút</option>
+<option value='10' >10 phút</option>
+<option value='11' >11 phút</option>
+<option value='12' >12 phút</option>
+<option value='13' >13 phút</option>
+<option value='14' >14 phút</option>
+<option value='15' >15 phút</option>
+<option value='16' >16 phút</option>
+<option value='17' >17 phút</option>
+<option value='18' >18 phút</option>
+<option value='19' >19 phút</option>
+<option value='20' >20 phút</option>
+<option value='21' >21 phút</option>
+<option value='22' >22 phút</option>
+<option value='23' >23 phút</option>
+<option value='24' >24 phút</option>
+<option value='25' >25 phút</option>
+<option value='26' >26 phút</option>
+<option value='27' >27 phút</option>
+<option value='28' >28 phút</option>
+<option value='29' >29 phút</option>
+<option value='30' >30 phút</option>
+<option value='31' >31 phút</option>
+<option value='32' >32 phút</option>
+<option value='33' >33 phút</option>
+<option value='34' >34 phút</option>
+<option value='35' >35 phút</option>
+<option value='36' >36 phút</option>
+<option value='37' >37 phút</option>
+<option value='38' >38 phút</option>
+<option value='39' >39 phút</option>
+<option value='40' >40 phút</option>
+<option value='41' >41 phút</option>
+<option value='42' >42 phút</option>
+<option value='43' >43 phút</option>
+<option value='44' >44 phút</option>
+<option value='45' >45 phút</option>
+<option value='46' >46 phút</option>
+<option value='47' >47 phút</option>
+<option value='48' >48 phút</option>
+<option value='49' >49 phút</option>
+<option value='50' >50 phút</option>
+<option value='51' >51 phút</option>
+<option value='52' >52 phút</option>
+<option value='53' >53 phút</option>
+<option value='54' >54 phút</option>
+<option value='55' >55 phút</option>
+<option value='56' >56 phút</option>
+<option value='57' >57 phút</option>
+<option value='58' >58 phút</option>
+<option value='59' >59 phút</option>
+</select>
+</div>
+
+
+<div class='form-group'>
+<select name='fixhour' class='form-control'>
+<option value='0' selected>Giờ địa phương</option>
+<option value='1' >Sinh ở miền Nam VN</option>
+<option value='2' >Giờ Bắc Kinh TQ UTC+8:00</option>
+</select>
+</div>
+
+</td>
+		</tr>
+		<tr>
+			<td>
+			<div align='right'><b>Giới Tính</b></td>
+			<td><div align='left'>
+			
+<div class='form-group'>
+<select size='1' name='gender' class='form-control'>
+ <option value='1' >Nam</option>
+ <option value='0' selected>Nữ</option>
+</select>
+</div>
+
+</td>
+</tr>
+<tr>
+<td><div align='right'><b>Xem Tiểu Hạn Năm</b></td>
+<td>
+<input type='text' class='form-control' placeholder='2020' name='year_xem' value='2020' size='5'>
+</td>
+		</tr>
+<tr><td></td><td>
+<input type='submit' value='Submit' name='submit' class='form-control'>
+</td></tr>
+		</tbody>
+	</table>
+</form>
+</p>
+<a title='Học Tiếng Anh miễn phí online' href='http://lopngoaingu.com' target='_blank'><img border='0' src='images/lopngoaingu.gif' class='img-rounded' width='100%'></a> <p><form class='form-inline' action='/KHHB/tu_binh_bat_tu_tru/index.php' method='get'>
+<table class='table table-bordered' style="background-image: url('/images/tvform_bg.jpg'); background-repeat: no-repeat; background-size: 100% 100%; width: 100%; "><thead>
+		<tr>
+			<td colspan='2'>
+			<div align='center'><div class='title2'>Dự Đoán Theo Tứ Trụ - Tử Bình</div></td>
+		</tr>
+</thead>
+<tbody>
+		<tr>
+			<td>
+			<div align='right'><b>Họ Tên</b></td>
+			<td><div align='left'>
+<input type='text' class='form-control' id='exampleInputName2' placeholder='Họ Tên' name='name' value='Nguyễn Hồng Phúc' size='35'>
+</td>
+		</tr>
+		<tr>
+			<td>
+			<div align='right'><b>Ngày Sinh</b></td>
+			<td><div align='left'>
+
+<div class='form-group'>
+<select size='1' name='isLunar' class='form-control'>
+<option value='' selected>Dương Lịch</option>
+<option value='1' >Âm Lịch</option>
+</select>
+</div>
+
+<div class='form-group'>
+ <select size='1' name='day' class='form-control'>
+  <option value='17'>ngày 17</option>
+ <option value='01'>ngày 01</option>
+ <option value='02'>ngày 02</option>
+ <option value='03'>ngày 03</option>
+ <option value='04'>ngày 04</option>
+ <option value='05'>ngày 05</option>
+ <option value='06'>ngày 06</option>
+ <option value='07'>ngày 07</option>
+ <option value='08'>ngày 08</option>
+ <option value='09'>ngày 09</option>
+ <option value='10'>ngày 10</option>
+ <option value='11'>ngày 11</option>
+ <option value='12'>ngày 12</option>
+ <option value='13'>ngày 13</option>
+ <option value='14'>ngày 14</option>
+ <option value='15'>ngày 15</option>
+ <option value='16'>ngày 16</option>
+ <option value='17'>ngày 17</option>
+ <option value='18'>ngày 18</option>
+ <option value='19'>ngày 19</option>
+ <option value='20'>ngày 20</option>
+ <option value='21'>ngày 21</option>
+ <option value='22'>ngày 22</option>
+ <option value='23'>ngày 23</option>
+ <option value='24'>ngày 24</option>
+ <option value='25'>ngày 25</option>
+ <option value='26'>ngày 26</option>
+ <option value='27'>ngày 27</option>
+ <option value='28'>ngày 28</option>
+ <option value='29'>ngày 29</option>
+ <option value='30'>ngày 30</option>
+ <option value='31'>ngày 31</option>
+</select>
+</div>
+
+<div class='form-group'>
+<select size='1' name='month' class='form-control'>
+<option value='09'>tháng 09</option>
+<option value='01'>tháng 01</option>
+<option value='02'>tháng 02</option>
+<option value='03'>tháng 03</option>
+<option value='04'>tháng 04</option>
+<option value='05'>tháng 05</option>
+<option value='06'>tháng 06</option>
+<option value='07'>tháng 07</option>
+<option value='08'>tháng 08</option>
+<option value='09'>tháng 09</option>
+<option value='10'>tháng 10</option>
+<option value='11'>tháng 11</option>
+<option value='12'>tháng 12</option>
+</select>
+</div>
+
+<div class='form-group'>
+<input type='text' class='form-control' placeholder='1985' name='year' value='1984' size='5'>
+</div>
+
+</td>
+		</tr>
+		<tr>
+			<td>
+			<div align='right'><b>Giờ Sinh</b></td>
+			<td><div align='left'>
+			
+<div class='form-group'>
+<select name='gio' class='form-control'>
+<option value='1' >1h Sửu</option>
+<option value='2' >2h Sửu</option>
+<option value='3' >3h Dần</option>
+<option value='4' >4h Dần</option>
+<option value='5' >5h Mão</option>
+<option value='6' >6h Mão</option>
+<option value='7' selected>7h Thìn</option>
+<option value='8' >8h Thìn</option>
+<option value='9' >9h Tị</option>
+<option value='10' >10h Tị</option>
+<option value='11' >11h Ngọ</option>
+<option value='12' >12h Ngọ</option>
+<option value='13' >13h Mùi</option>
+<option value='14' >14h Mùi</option>
+<option value='15' >15h Thân</option>
+<option value='16' >16h Thân</option>
+<option value='17' >17h Dậu</option>
+<option value='18' >18h Dậu</option>
+<option value='19' >19h Tuất</option>
+<option value='20' >20h Tuất</option>
+<option value='21' >21h Hợi</option>
+<option value='22' >22h Hợi</option>
+<option value='23' >23h Tý</option>
+<option value='24' >24h Tý</option>
+</select>
+</div>
+
+<div class='form-group'>
+<select name='phut' class='form-control'>
+<option value='00' >00 phút</option>
+<option value='01' selected>01 phút</option>
+<option value='02' >02 phút</option>
+<option value='03' >03 phút</option>
+<option value='04' >04 phút</option>
+<option value='05' >05 phút</option>
+<option value='06' >06 phút</option>
+<option value='07' >07 phút</option>
+<option value='08' >08 phút</option>
+<option value='09' >09 phút</option>
+<option value='10' >10 phút</option>
+<option value='11' >11 phút</option>
+<option value='12' >12 phút</option>
+<option value='13' >13 phút</option>
+<option value='14' >14 phút</option>
+<option value='15' >15 phút</option>
+<option value='16' >16 phút</option>
+<option value='17' >17 phút</option>
+<option value='18' >18 phút</option>
+<option value='19' >19 phút</option>
+<option value='20' >20 phút</option>
+<option value='21' >21 phút</option>
+<option value='22' >22 phút</option>
+<option value='23' >23 phút</option>
+<option value='24' >24 phút</option>
+<option value='25' >25 phút</option>
+<option value='26' >26 phút</option>
+<option value='27' >27 phút</option>
+<option value='28' >28 phút</option>
+<option value='29' >29 phút</option>
+<option value='30' >30 phút</option>
+<option value='31' >31 phút</option>
+<option value='32' >32 phút</option>
+<option value='33' >33 phút</option>
+<option value='34' >34 phút</option>
+<option value='35' >35 phút</option>
+<option value='36' >36 phút</option>
+<option value='37' >37 phút</option>
+<option value='38' >38 phút</option>
+<option value='39' >39 phút</option>
+<option value='40' >40 phút</option>
+<option value='41' >41 phút</option>
+<option value='42' >42 phút</option>
+<option value='43' >43 phút</option>
+<option value='44' >44 phút</option>
+<option value='45' >45 phút</option>
+<option value='46' >46 phút</option>
+<option value='47' >47 phút</option>
+<option value='48' >48 phút</option>
+<option value='49' >49 phút</option>
+<option value='50' >50 phút</option>
+<option value='51' >51 phút</option>
+<option value='52' >52 phút</option>
+<option value='53' >53 phút</option>
+<option value='54' >54 phút</option>
+<option value='55' >55 phút</option>
+<option value='56' >56 phút</option>
+<option value='57' >57 phút</option>
+<option value='58' >58 phút</option>
+<option value='59' >59 phút</option>
+</select>
+</div>
+
+
+<div class='form-group'>
+<select name='fixhour' class='form-control'>
+<option value='0' selected>Giờ địa phương</option>
+<option value='1' >Sinh ở miền Nam VN</option>
+<option value='2' >Giờ Bắc Kinh TQ UTC+8:00</option>
+</select>
+</div>
+
+</td>
+		</tr>
+		<tr>
+			<td>
+			<div align='right'><b>Giới Tính</b></td>
+			<td><div align='left'>
+			
+<div class='form-group'>
+<select size='1' name='gender' class='form-control'>
+ <option value='1' >Nam</option>
+ <option value='0' selected>Nữ</option>
+</select>
+</div>
+
+</td>
+</tr>
+<tr>
+<td><div align='right'><b>Xem Tiểu Hạn Năm</b></td>
+<td>
+<input type='text' class='form-control' placeholder='2020' name='year_xem' value='2020' size='5'>
+</td>
+		</tr>
+<tr><td></td><td>
+<input type='submit' value='Submit' name='submit' class='form-control'>
+</td></tr>
+		</tbody>
+	</table>
+</form></p>
+<a title='Vndic.net là từ điển online tốt nhất hiện nay' href='http://vndic.net' target='_blank'><img border='0' src='images/vndic.gif' class='img-rounded' width='100%'></a> <p>
+<form class='form-inline' action='bat_tu_ha_lac/index.php' method='get'>
+<table class='table table-bordered table-condensed'><thead>
+		<tr style='background-color: #ffffff;'>
+			<td colspan='2'>
+			<div align='center'><div class='title2'> Bát Tự Hà Lạc </div></td>
+		</tr>
+</thead>
+<tbody>
+		<tr>
+			<td>
+			<div align='right'><b>Họ Tên</b></td>
+			<td><div align='left'>
+<input type='text' class='form-control' placeholder='Họ Tên' name='name' value='Nguyễn Hồng Phúc' size='35'>
+</td>
+		</tr>
+		<tr>
+			<td>
+			<div align='right'><b>Ngày Sinh</b></td>
+			<td><div align='left'>
+
+<div class='form-group'>
+<select size='1' name='isLunar' class='form-control'>
+<option value='' selected>Dương Lịch</option>
+<option value='1' >Âm Lịch</option>
+</select>
+</div>
+
+<div class='form-group'>
+ <select size='1' name='day' class='form-control'>
+ <option value='17'>ngày 17</option>
+ <option value='01'>ngày 01</option>
+ <option value='02'>ngày 02</option>
+ <option value='03'>ngày 03</option>
+ <option value='04'>ngày 04</option>
+ <option value='05'>ngày 05</option>
+ <option value='06'>ngày 06</option>
+ <option value='07'>ngày 07</option>
+ <option value='08'>ngày 08</option>
+ <option value='09'>ngày 09</option>
+ <option value='10'>ngày 10</option>
+ <option value='11'>ngày 11</option>
+ <option value='12'>ngày 12</option>
+ <option value='13'>ngày 13</option>
+ <option value='14'>ngày 14</option>
+ <option value='15'>ngày 15</option>
+ <option value='16'>ngày 16</option>
+ <option value='17'>ngày 17</option>
+ <option value='18'>ngày 18</option>
+ <option value='19'>ngày 19</option>
+ <option value='20'>ngày 20</option>
+ <option value='21'>ngày 21</option>
+ <option value='22'>ngày 22</option>
+ <option value='23'>ngày 23</option>
+ <option value='24'>ngày 24</option>
+ <option value='25'>ngày 25</option>
+ <option value='26'>ngày 26</option>
+ <option value='27'>ngày 27</option>
+ <option value='28'>ngày 28</option>
+ <option value='29'>ngày 29</option>
+ <option value='30'>ngày 30</option>
+ <option value='31'>ngày 31</option>
+</select>
+</div>
+
+<div class='form-group'>
+<select size='1' name='month' class='form-control'>
+<option value='09'>tháng 09</option>
+<option value='01'>tháng 01</option>
+<option value='02'>tháng 02</option>
+<option value='03'>tháng 03</option>
+<option value='04'>tháng 04</option>
+<option value='05'>tháng 05</option>
+<option value='06'>tháng 06</option>
+<option value='07'>tháng 07</option>
+<option value='08'>tháng 08</option>
+<option value='09'>tháng 09</option>
+<option value='10'>tháng 10</option>
+<option value='11'>tháng 11</option>
+<option value='12'>tháng 12</option>
+</select>
+</div>
+
+<div class='form-group'>
+<input type='text' class='form-control' placeholder='1984' name='year' value='1984' size='5'>
+</div>
+
+</td>
+		</tr>
+		<tr>
+			<td>
+			<div align='right'><b>Giờ Sinh</b></td>
+			<td><div align='left'>
+			
+<div class='form-group'>
+<select name='gio' class='form-control'>
+<option value='1' >1h Sửu</option>
+<option value='2' >2h Sửu</option>
+<option value='3' >3h Dần</option>
+<option value='4' >4h Dần</option>
+<option value='5' >5h Mão</option>
+<option value='6' >6h Mão</option>
+<option value='7' >7h Thìn</option>
+<option value='8' >8h Thìn</option>
+<option value='9' selected>9h Tị</option>
+<option value='10' >10h Tị</option>
+<option value='11' >11h Ngọ</option>
+<option value='12' >12h Ngọ</option>
+<option value='13' >13h Mùi</option>
+<option value='14' >14h Mùi</option>
+<option value='15' >15h Thân</option>
+<option value='16' >16h Thân</option>
+<option value='17' >17h Dậu</option>
+<option value='18' >18h Dậu</option>
+<option value='19' >19h Tuất</option>
+<option value='20' >20h Tuất</option>
+<option value='21' >21h Hợi</option>
+<option value='22' >22h Hợi</option>
+<option value='23' >23h Tý</option>
+<option value='24' >24h Tý</option>
+</select>
+</div>
+
+<div class='form-group'>
+<select name='phut' class='form-control'>
+<option value='00' >00 phút</option>
+<option value='01' >01 phút</option>
+<option value='02' >02 phút</option>
+<option value='03' >03 phút</option>
+<option value='04' >04 phút</option>
+<option value='05' >05 phút</option>
+<option value='06' >06 phút</option>
+<option value='07' >07 phút</option>
+<option value='08' >08 phút</option>
+<option value='09' >09 phút</option>
+<option value='10' >10 phút</option>
+<option value='11' >11 phút</option>
+<option value='12' >12 phút</option>
+<option value='13' >13 phút</option>
+<option value='14' >14 phút</option>
+<option value='15' >15 phút</option>
+<option value='16' >16 phút</option>
+<option value='17' >17 phút</option>
+<option value='18' >18 phút</option>
+<option value='19' >19 phút</option>
+<option value='20' >20 phút</option>
+<option value='21' >21 phút</option>
+<option value='22' >22 phút</option>
+<option value='23' >23 phút</option>
+<option value='24' >24 phút</option>
+<option value='25' >25 phút</option>
+<option value='26' >26 phút</option>
+<option value='27' >27 phút</option>
+<option value='28' >28 phút</option>
+<option value='29' >29 phút</option>
+<option value='30' >30 phút</option>
+<option value='31' >31 phút</option>
+<option value='32' >32 phút</option>
+<option value='33' >33 phút</option>
+<option value='34' >34 phút</option>
+<option value='35' >35 phút</option>
+<option value='36' >36 phút</option>
+<option value='37' >37 phút</option>
+<option value='38' >38 phút</option>
+<option value='39' >39 phút</option>
+<option value='40' >40 phút</option>
+<option value='41' >41 phút</option>
+<option value='42' >42 phút</option>
+<option value='43' >43 phút</option>
+<option value='44' >44 phút</option>
+<option value='45' >45 phút</option>
+<option value='46' >46 phút</option>
+<option value='47' selected>47 phút</option>
+<option value='48' >48 phút</option>
+<option value='49' >49 phút</option>
+<option value='50' >50 phút</option>
+<option value='51' >51 phút</option>
+<option value='52' >52 phút</option>
+<option value='53' >53 phút</option>
+<option value='54' >54 phút</option>
+<option value='55' >55 phút</option>
+<option value='56' >56 phút</option>
+<option value='57' >57 phút</option>
+<option value='58' >58 phút</option>
+<option value='59' >59 phút</option>
+</select>
+</div>
+
+<div class='form-group'>
+<select name='fixhour' class='form-control'>
+<option value='0' selected>Giờ địa phương</option>
+<option value='1' >Sinh ở miền Nam VN</option>
+<option value='2' >Giờ Bắc Kinh TQ UTC+8:00</option>
+</select>
+</div>
+
+</td>
+		</tr>
+		<tr>
+			<td>
+			<div align='right'><b>Giới Tính</b></td>
+			<td><div align='left'>
+			
+<div class='form-group'>
+<select size='1' name='gender' class='form-control'>
+ <option value='1' selected>Nam</option>
+ <option value='2' >Nữ</option>
+</select>
+</div>
+
+</td>
+</tr>
+
+<tr>
+			<td>
+			<div align='right'><b>Vận năm</b></td>
+<td><div align='left'>
+<div class='form-group'>
+<input type='text' class='form-control' placeholder='2020' name='yearxem' value='2020' size='5'>
+</div>
+</td>
+</tr>
+
+<tr><td></td><td>
+<input type='submit' value='Submit' name='submit' class='form-control btn btn-primary'>
+</td></tr>
+		</tbody>
+	</table>
+</form></p>
+<a title='NauNgon.com hướng dẫn cách nấu ăn ngon với hàng chục ngàn công thức...' href='http://naungon.com' target='_blank'><img border='0' src='images/naungon.jpg' class='img-rounded' width='100%'></a> <div class="page-header"><h2>Chuyên mục Tử Vi và Tứ Trụ</h2></div><ul class="favi_big2">
+<li><a class="hotlink2" href="/an_sao_tu_vi/index.php"><img class="favi" src="/images/icon/xemtuong17.png" height="70" width=70"><p class="name2">An Sao tử vi (mới)</p></a></li> 
+<li><a class="hotlink2" href="/KHHB/tuvi/index.php"><img class="favi" src="/images/icon/xemtuong1.png" height="70" width=70"><p class="name2">Lá số tử vi & Bình giải</p></a></li> 
+<li><a class="hotlink2" href="/KHHB/tu_binh_bat_tu_tru/index.php"><img class="favi" src="/images/icon/xemtuong27.png" height="70" width=70"><p class="name2">Tứ Trụ, Tử Bình(mới)</p></a></li> 
+<li><a class="hotlink2" href="/tuvi/tu_vi_hang_tuan/index.php"><img class="favi" src="/images/icon/xemtuong1.png" height="70" width=70"><p class="name2">Tử vi hàng tuần</p></a></li> 
+<li><a class="hotlink2" href="/quicoctoanmenh/index.php"><img class="favi" src="/images/icon/xemtuong2.png" height="70" width=70"><p class="name2">Lá số Quỷ Cốc Toán Mệnh</p></a></li> 
+<li><a class="hotlink2" href="/tuvi/2018_mau_tuat/index.php"><img class="favi" src="/images/icon/xemtuong3.png" height="70" width=70"><p class="name2">Tử Vi năm Mậu Tuất 2018</p></a></li> 
+<li><a class="hotlink2" href="/tuvi/cau-chuyen-tu-vi/index.php"><img class="favi" src="/images/icon/xemtuong4.png" height="70" width=70"><p class="name2">Câu chuyện tử vi</p></a></li> 
+<li><a class="hotlink2" href="/tuvi/trung_chau_tuvi/index.php"><img class="favi" src="/images/icon/xemtuong3.png" height="70" width=70"><p class="name2">Trung Châu Tử Vi</p></a></li> 
+<li><a class="hotlink2" href="/tuvi/chia_khoa_tu_vi/index.php"><img class="favi" src="/images/icon/xemtuong5.png" height="70" width=70"><p class="name2">Chìa khoá tử vi</p></a></li> 
+<li><a class="hotlink2" href="/tuvi/muon_luan_doan_dung_tuvi/index.php"><img class="favi" src="/images/icon/xemtuong6.png" height="70" width=70"><p class="name2">Luận đoán đúng tử vi</p></a></li> 
+<li><a class="hotlink2" href="/tuvi/so-tu-vi-duoi-mat-khoa-hoc/index.php"><img class="favi" src="/images/icon/xemtuong7.png" height="70" width=70"><p class="name2">Tử vi dưới mắt khoa học</p></a></li> 
+<li><a class="hotlink2" href="/tuvi/tu_dien_tu_vi/index.php"><img class="favi" src="/images/icon/xemtuong8.png" height="70" width=70"><p class="name2">Từ điển tử vi</p></a></li> 
+<li><a class="hotlink2" href="/show.php?id=tu_dien_tu_vi"><img class="favi" src="/images/icon/xemtuong8.png" height="70" width=70"><p class="name2">Tra Từ Điển Tử Vi</p></a></li>
+<li><a class="hotlink2" href="/tuvi/tu_vi_ao_bi_bien_chung/index.php"><img class="favi" src="/images/icon/xemtuong9.png" height="70" width=70"><p class="name2">Tử vi ảo bí biện chứng</p></a></li> 
+<li><a class="hotlink2" href="/tuvi/tu_vi_bo_tuc/index.php"><img class="favi" src="/images/icon/xemtuong10.png" height="70" width=70"><p class="name2">Tử vi bổ túc</p></a></li> 
+<li><a class="hotlink2" href="/tuvi/linh_khu_thoi_menh_ly/index.php"><img class="favi" src="/images/icon/lktml.png" height="70" width=70"><p class="name2">Linh Khu Thời Mệnh Lý</p></a></li> 
+<li><a class="hotlink2" href="/tuvi/tu_vi_chi_nam/index.php"><img class="favi" src="/images/icon/xemtuong11.png" height="70" width=70"><p class="name2">Tử vi chỉ nam</p></a></li> 
+<li><a class="hotlink2" href="/tuvi/tu_vi_dau_so_ly_hoc/index.php"><img class="favi" src="/images/icon/xemtuong13.png" height="70" width=70"><p class="name2">Tử vi Đẩu Số lý học</p></a></li> 
+<li><a class="hotlink2" href="/tuvi/tu_vi_dau_so_toan_thu/index.php"><img class="favi" src="/images/icon/xemtuong12.png" height="70" width=70"><p class="name2">Tử vi Đẩu Số toàn thư</p></a></li> 
+<li><a class="hotlink2" href="/tuvi/tu_vi_ham_so/index.php"><img class="favi" src="/images/icon/xemtuong14.png" height="70" width=70"><p class="name2">Tử vi hàm số</p></a></li> 
+<li><a class="hotlink2" href="/show.php?id=tu_vi_ham_so"><img class="favi" src="/images/icon/xemtuong14.png" height="70" width=70"><p class="name2">Trích Tử vi hàm số</p></a></li>
+<li><a class="hotlink2" href="/tuvi/tu_vi_khao_luan/index.php"><img class="favi" src="/images/icon/xemtuong15.png" height="70" width=70"><p class="name2">Tử vi khảo luận</p></a></li> 
+<li><a class="hotlink2" href="/tuvi/tu_vi_lap_thanh_du_doan/index.php"><img class="favi" src="/images/icon/xemtuong16.png" height="70" width=70"><p class="name2">Tử vi lập thành và phụ đoán</p></a></li> 
+<li><a class="hotlink2" href="/tuvi/tu_vi_tong_hop/index.php"><img class="favi" src="/images/icon/xemtuong17.png" height="70" width=70"><p class="name2">Tử vi tổng hợp</p></a></li> 
+<li><a class="hotlink2" href="/tuvi/tu_vi_thuc_hanh/index.php"><img class="favi" src="/images/icon/xemtuong18.png" height="70" width=70"><p class="name2">Tử vi thực hành</p></a></li> 
+<li><a class="hotlink2" href="/tuvi/tuvi_nghiem_ly_toan_thu/index.php"><img class="favi" src="/images/icon/xemtuong19.png" height="70" width=70"><p class="name2">Tử Vi Nghiệm Lý Toàn Thư</p></a></li> 
+<li><a class="hotlink2" href="/tuvi/tuvi_nghiemly_ly_menh_hoc/index.php"><img class="favi" src="/images/icon/xemtuong20.png" height="70" width=70"><p class="name2">Tử Vi Nghiệm Lý Mệnh Học</p></a></li> 
+<li><a class="hotlink2" href="/tuvi/tuvi_tron_doi/index.php"><img class="favi" src="/images/icon/xemtuong21.png" height="70" width=70"><p class="name2">Tử vi trọn đời</p></a></li> 
+<li><a class="hotlink2" href="/tuvi/tu-vi-tru-me-tin/index.php"><img class="favi" src="/images/icon/xemtuong22.png" height="70" width=70"><p class="name2">Tử vi trừ mê tín</p></a></li> 
+<li><a class="hotlink2" href="/tuvi/thai-at-than-kinh/index.php"><img class="favi" src="/images/icon/xemtuong23.png" height="70" width=70"><p class="name2">Thái Ất Thần Kinh</p></a></li> 
+<li><a class="hotlink2" href="/tuvidauso/index.php"><img class="favi" src="/images/icon/xemtuong24.png" height="70" width=70"><p class="name2">Tử Vi đẩu số</p></a></li> 
+<li><a class="hotlink2" href="/tuvikinhnghiem/index.php"><img class="favi" src="/images/icon/xemtuong25.png" height="70" width=70"><p class="name2">Tử Vi Kinh Nghiệm</p></a></li> 
+<li><a class="hotlink2" href="/tuvituongphap/index.php"><img class="favi" src="/images/icon/xemtuong26.png" height="70" width=70"><p class="name2">Tử Vi Tướng Pháp</p></a></li> 
+<li><a class="hotlink2" href="/KHHB/tubinh/index.php"><img class="favi" src="/images/icon/xemtuong27.png" height="70" width=70"><p class="name2">Tứ Trụ - Tử Bình</p></a></li> 
+<li><a class="hotlink2" href="/chu-dich-ddh/index.php"><img class="favi" src="/images/icon/xemtuong28.png" height="70" width=70"><p class="name2">Chu Dịch và Dự đoán học</p></a></li> 
+<li><a class="hotlink2" href="/du-doan-theo-tu-tru/index.php"><img class="favi" src="/images/icon/xemtuong29.png" height="70" width=70"><p class="name2">Dự đoán theo tứ trụ</p></a></li> 
+<li><a class="hotlink2" href="/kinhdich/index.php"><img class="favi" src="/images/icon/xemtuong30.png" height="70" width=70"><p class="name2">Kinh dịch</p></a></li> 
+<li><a class="hotlink2" href="/don_giap/index.php"><img class="favi" src="/images/icon/xemtuong31.png" height="70" width=70"><p class="name2">Độn giáp lược giải</p></a></li> 
+<li><a class="hotlink2" href="/sinh_con/dat_ten_theo_ngu_hanh/index.php"><img class="favi" src="/images/icon/xemtuong32.png" height="70" width=70"><p class="name2">Đặt tên con theo ngũ hành</p></a></li> 
+<li><a class="hotlink2" href="/xem_ngu_hanh/index.php?action=namsinhcon"><img class="favi" src="/images/icon/xemtuong33.png" height="70" width=70"><p class="name2">Chọn năm sinh con</p></a></li> 
+<li><a class="hotlink2" href="/KHHB/xem-tuoi-con/index.php"><img class="favi" src="/images/icon/xemtuong34.png" height="70" width=70"><p class="name2">Xem tuổi cho con</p></a></li> 
+<li><a class="hotlink2" href="/chon_gio_tot_sinh_mo.php"><img class="favi" src="/images/icon/xemtuong35.png" height="70" width=70"><p class="name2">Chọn giờ tốt sinh mổ</p></a></li> 
+<li><a class="hotlink2" href="/12congiap/index.php"><img class="favi" src="/images/icon/xemtuong36.png" height="70" width=70"><p class="name2">12 Con giáp</p></a></li> 
+</ul>  
+
+<div class="page-header"><h2>Chuyên mục Xem Ngày</h2></div><ul class="favi_big2">
+<li><a class="hotlink2" href="/xem_ngay/index.php"><img class="favi" src="/images/icon/xemtuong37.png" height="70" width=70"><p class="name2">Xem Ngày Vạn Sự</p></a></li> 
+<li><a class="hotlink2" href="/xem_ngay/cau_tai_khai_truong/index.php"><img class="favi" src="/images/icon/xemtuong38.png" height="70" width=70"><p class="name2">Xem ngày khai trương</p></a></li> 
+<li><a class="hotlink2" href="/xem_ngay/cau_tai_khai_truong/ky_hop_dong.php"><img class="favi" src="/images/icon/xemtuong39.png" height="70" width=70"><p class="name2">Xem ngày ký hợp đồng</p></a></li> 
+<li><a class="hotlink2" href="/xem_ngay/chon_cat/index.php"><img class="favi" src="/images/icon/xemtuong40.png" height="70" width=70"><p class="name2">Xem ngày chôn cất ma chay</p></a></li> 
+<li><a class="hotlink2" href="/xem_ngay/mua_xe/index.php"><img class="favi" src="/images/icon/xemtuong41.png" height="70" width=70"><p class="name2">Xem ngày tốt mua xe</p></a></li> 
+<li><a class="hotlink2" href="/xem_ngay/nop_don/index.php"><img class="favi" src="/images/icon/xemtuong42.png" height="70" width=70"><p class="name2">Xem ngày nộp đơn nộp hồ sơ</p></a></li> 
+<li><a class="hotlink2" href="/xem_ngay/nhap_trach/index.php"><img class="favi" src="/images/icon/xemtuong43.png" height="70" width=70"><p class="name2">Xem Ngày Chuyển Nhà</p></a></li> 
+<li><a class="hotlink2" href="/xem_ngay/suc_khoe/index.php"><img class="favi" src="/images/icon/xemtuong44.png" height="70" width=70"><p class="name2">Xem ngày chữa bệnh, đi thẩm mỹ</p></a></li> 
+<li><a class="hotlink2" href="/xem_ngay/tot_trong_thang/index.php"><img class="favi" src="/images/icon/xemtuong45.png" height="70" width=70"><p class="name2">Xem ngày tốt trong tháng</p></a></li> 
+<li><a class="hotlink2" href="/xem_ngay/xay_dung/index.php"><img class="favi" src="/images/icon/xemtuong46.png" height="70" width=70"><p class="name2">Xem ngày xây nhà sửa nhà</p></a></li> 
+<li><a class="hotlink2" href="/xem_ngay/xay_dung/muabannha.php"><img class="favi" src="/images/icon/xemtuong47.png" height="70" width=70"><p class="name2">Xem ngày mua nhà</p></a></li> 
+<li><a class="hotlink2" href="/xem_ngay/xem_gio_tot/index.php"><img class="favi" src="/images/icon/xemtuong48.png" height="70" width=70"><p class="name2">Xem giờ Tốt</p></a></li> 
+<li><a class="hotlink2" href="/xem_ngay/xem_ngay_cuoi/index.php"><img class="favi" src="/images/icon/xemtuong49.png" height="70" width=70"><p class="name2">Xem Ngày Cưới Hỏi</p></a></li> 
+<li><a class="hotlink2" href="/xem_ngay/xem_sao_han/index.php"><img class="favi" src="/images/icon/xemtuong50.png" height="70" width=70"><p class="name2">Xem Sao Hạn trong năm</p></a></li> 
+<li><a class="hotlink2" href="/xem_ngay/xem_tuoi_xem_ngay/index.php"><img class="favi" src="/images/icon/xemtuong51.png" height="70" width=70"><p class="name2">Xem Tuổi Xem Ngày</p></a></li> 
+<li><a class="hotlink2" href="/xem_ngay/xuat_hanh/index.php"><img class="favi" src="/images/icon/xemtuong52.png" height="70" width=70"><p class="name2">Xem Ngày Xuất Hành</p></a></li> 
+<li><a class="hotlink2" href="/boi/lich_van_su/index.php"><img class="favi" src="/images/icon/xemtuong53.png" height="70" width=70"><p class="name2">Lịch Vạn Sự</p></a></li> 
+<li><a class="hotlink2" href="/boi/tam_tong_mieu/index.php"><img class="favi" src="/images/icon/xemtuong54.png" height="70" width=70"><p class="name2">Tam Tông Miếu Xem Ngày</p></a></li> 
+<li><a class="hotlink2" href="/boi/xem_ngay_tot_xau/index.php"><img class="favi" src="/images/icon/xemtuong55.png" height="70" width=70"><p class="name2">Xem Ngày Tốt Xấu</p></a></li> 
+<li><a class="hotlink2" href="/dong_cong_tuyen_nhat/index.php"><img class="favi" src="/images/icon/xemtuong56.png" height="70" width=70"><p class="name2">Đổng Công Tuyển Nhật</p></a></li> 
+<li><a class="hotlink2" href="/boi/xem_tuoi_vo_chong/index.php"><img class="favi" src="/images/icon/xemtuong57.png" height="70" width=70"><p class="name2">Xem tuổi vợ chồng</p></a></li> 
+<li><a class="hotlink2" href="/boi/xong_nha_nam_moi/index.php"><img class="favi" src="/images/icon/xemtuong58.png" height="70" width=70"><p class="name2">Chọn tuổi xong nhà năm 2016</p></a></li> 
+<li><a class="hotlink2" href="/boi/sao_chieu_menh/index.php"><img class="favi" src="/images/icon/xemtuong59.png" height="70" width=70"><p class="name2">Sao Hạn Trong Năm</p></a></li> 
+<li><a class="hotlink2" href="/xem_ngu_hanh/index.php?action=tinhyeu"><img class="favi" src="/images/icon/xemtuong60.png" height="70" width=70"><p class="name2">Xem tình duyên</p></a></li> 
+<li><a class="hotlink2" href="/boi/so_tuoi_vo_chong/index.php"><img class="favi" src="/images/icon/xemtuong61.png" height="70" width=70"><p class="name2">So Tuổi Vợ Chồng</p></a></li> 
+<li><a class="hotlink2" href="/boi/tim_tuoi_vo_chong/index.php"><img class="favi" src="/images/icon/xemtuong62.png" height="70" width=70"><p class="name2">Tìm tuổi tốt vợ chồng</p></a></li> 
+<li><a class="hotlink2" href="/caolydauhinh/index.php"><img class="favi" src="/images/icon/xemtuong63.png" height="70" width=70"><p class="name2">Cao ly đầu hình - Vợ Chồng</p></a></li> 
+<li><a class="hotlink2" href="/canduyentiendinh/index.php"><img class="favi" src="/images/icon/xemtuong64.png" height="70" width=70"><p class="name2">Căn duyên tiền định</p></a></li>                                                                        
+</ul>  
+
+
+<div class="page-header"><h2>Chuyên mục Gieo Quẻ - Xin Xâm</h2></div><ul class="favi_big2">
+<li><a class="hotlink2" href="/gieo_que_dich_so/index.php"><img class="favi" src="/images/icon/xemtuong30.png" height="70" width=70"><p class="name2">Gieo Quẻ Dịch Số <img border="0" src="/images/new.gif"></p></a></li>
+<li><a class="hotlink2" href="/bat_tu_ha_lac/index.php"><img class="favi" src="/images/icon/xemtuong169.png" height="70" width=70"><p class="name2">Bát Tự Hà Lạc <img border="0" src="/images/new.gif"></p></a></li>
+<li><a class="hotlink2" href="/hoa_mai_dich_so/index.php"><img class="favi" src="/images/icon/xemtuong173.png" height="70" width=70"><p class="name2">Mai Hoa Dịch Số mới <img border="0" src="/images/new.gif"></p></a></li> 
+<li><a class="hotlink2" href="/lac_viet_don_toan/index.php"><img class="favi" src="/images/icon/xemtuong168.png" height="70" width=70"><p class="name2">Lạc Việt Độn Toán</p></a></li>
+<li><a class="hotlink2" href="/xem_ngu_hanh/index.php?action=halaclyso"><img class="favi" src="/images/icon/xemtuong138.png" height="70" width=70"><p class="name2">Hà Lạc Lý Số</p></a></li> 
+<li><a class="hotlink2" href="/xem_ngu_hanh/index.php?action=maihoadichso"><img class="favi" src="/images/icon/xemtuong141.png" height="70" width=70"><p class="name2">Mai Hoa Dịch Số</p></a></li> 
+<li><a class="hotlink2" href="/boi/gieo_que_hoi_viec/index.php"><img class="favi" src="/images/icon/xemtuong77.png" height="70" width=70"><p class="name2">Gieo Quẻ Hỏi Việc</p></a></li> 
+<li><a class="hotlink2" href="/boi/gieo_que_hoi_viec2/index.php"><img class="favi" src="/images/icon/xemtuong171.png" height="70" width=70"><p class="name2">Gieo Quẻ Hỏi Việc 2</p></a></li> 
+<li><a class="hotlink2" href="/boi/gieo_que_ho_ten/index.php"><img class="favi" src="/images/icon/xemtuong170.png" height="70" width=70"><p class="name2">Gieo Quẻ Họ Tên</p></a></li> 
+<li><a class="hotlink2" href="/boi/gieo_que_dich_so/index.php"><img class="favi" src="/images/icon/xemtuong78.png" height="70" width=70"><p class="name2">Gieo quẻ Dịch số</p></a></li> 
+<li><a class="hotlink2" href="/boi/que_dich_phuc_hy/index.php"><img class="favi" src="/images/icon/xemtuong79.png" height="70" width=70"><p class="name2">Quẻ Dịch Phục Hy</p></a></li> 
+<li><a class="hotlink2" href="/boi/que_khong_minh/index.php"><img class="favi" src="/images/icon/xemtuong80.png" height="70" width=70"><p class="name2">Khổng Minh Thần Quẻ</p></a></li> 
+<li><a class="hotlink2" href="/boi/que_quan_am/index.php"><img class="favi" src="/images/icon/xemtuong81.png" height="70" width=70"><p class="name2">Quẻ Quán Âm</p></a></li> 
+<li><a class="hotlink2" href="/boi/quan_am_linh_que/index.php"><img class="favi" src="/images/icon/xemtuong172.png" height="70" width=70"><p class="name2">Quán Âm Linh Quẻ</p></a></li> 
+<li><a class="hotlink2" href="/boi/que_quy_coc/index.php"><img class="favi" src="/images/icon/xemtuong82.png" height="70" width=70"><p class="name2">Quỉ Cốc Thần Quẻ</p></a></li> 
+<li><a class="hotlink2" href="/boi/que_te_cong/index.php"><img class="favi" src="/images/icon/xemtuong83.png" height="70" width=70"><p class="name2">Quẻ Tế Công</p></a></li> 
+<li><a class="hotlink2" href="/boi/que_thai_at/index.php"><img class="favi" src="/images/icon/xemtuong84.png" height="70" width=70"><p class="name2">Thái Ất Thần Quẻ</p></a></li> 
+<li><a class="hotlink2" href="/boi/xem_que/index.php"><img class="favi" src="/images/icon/xemtuong165.png" height="70" width=70"><p class="name2">Quẻ 12 con giáp</p></a></li> 
+<li><a class="hotlink2" href="/boi/xam_quan_am/index.php"><img class="favi" src="/images/icon/xemtuong85.png" height="70" width=70"><p class="name2">Xăm Quán Âm</p></a></li> 
+<li><a class="hotlink2" href="/boi/xam_quan_thanh/index.php"><img class="favi" src="/images/icon/xemtuong86.png" height="70" width=70"><p class="name2">Xăm Quan Thánh</p></a></li> 
+<li><a class="hotlink2" href="/boi/xam_ta_quan/index.php"><img class="favi" src="/images/icon/xemtuong87.png" height="70" width=70"><p class="name2">Xăm Tả Quân</p></a></li> 
+</ul>  
+
+
+<div class="page-header"><h2>Chuyên mục Bói Toán</h2></div><ul class="favi_big2">
+<li><a class="hotlink2" href="/boi/diem_cam_tam_the/index.php"><img class="favi" src="/images/icon/xemtuong73.png" height="70" width=70"><p class="name2">Xem Bói Thầy Tư</p></a></li> 
+<li><a class="hotlink2" href="/boi/boi_bai/index.php"><img class="favi" src="/images/icon/xemtuong65.png" height="70" width=70"><p class="name2">Bói Bài</p></a></li> 
+<li><a class="hotlink2" href="/boi/boi_bai_hang_ngay/index.php"><img class="favi" src="/images/icon/xemtuong166.png" height="70" width=70"><p class="name2">Bói Bài Hàng Ngày</p></a></li> 
+<li><a class="hotlink2" href="/boi/boi_bai_tarot/hang_ngay/index.php"><img class="favi" src="/images/icon/xemtuong157.png" height="70" width=70"><p class="name2">Bói Bài Hôm Nay</p></a></li> 
+<li><a class="hotlink2" href="/boi/boi_bai_tarot/hang_tuan/index.php"><img class="favi" src="/images/icon/xemtuong158.png" height="70" width=70"><p class="name2">Bói Bài Tuần Này</p></a></li> 
+<li><a class="hotlink2" href="/boi/boi_bai_tarot/hang_thang/index.php"><img class="favi" src="/images/icon/xemtuong159.png" height="70" width=70"><p class="name2">Bói Bài Tháng Này</p></a></li> 
+<li><a class="hotlink2" href="/boi/boi_bai_tarot/boi_go_roi/index.php"><img class="favi" src="/images/icon/xemtuong160.png" height="70" width=70"><p class="name2">Bói Bài Gở Rối</p></a></li> 
+<li><a class="hotlink2" href="/boi/boi_kieu/index.php"><img class="favi" src="/images/icon/xemtuong66.png" height="70" width=70"><p class="name2">Bói Kiều</p></a></li> 
+<li><a class="hotlink2" href="/boi/boi_kieu2/index.php"><img class="favi" src="/images/icon/xemtuong164.png" height="70" width=70"><p class="name2">Bói Kiều 2</p></a></li> 
+<li><a class="hotlink2" href="/boi/boi_ten/index.php"><img class="favi" src="/images/icon/xemtuong67.png" height="70" width=70"><p class="name2">Thần số học - Bói tên</p></a></li> 
+<li><a class="hotlink2" href="/boivui/index.php"><img class="favi" src="/images/icon/xemtuong68.png" height="70" width=70"><p class="name2">Bói Tâm Lý </p></a></li> 
+<li><a class="hotlink2" href="/boc-phe-cach-ngon/index.php"><img class="favi" src="/images/icon/xemtuong69.png" height="70" width=70"><p class="name2">Bốc phệ cách ngôn</p></a></li> 
+<li><a class="hotlink2" href="/boc-phe-chinh-tong/index.php"><img class="favi" src="/images/icon/xemtuong70.png" height="70" width=70"><p class="name2">Bốc phệ chính tông</p></a></li> 
+<li><a class="hotlink2" href="/boidich/index.php"><img class="favi" src="/images/icon/xemtuong71.png" height="70" width=70"><p class="name2">Bói dịch</p></a></li> 
+<li><a class="hotlink2" href="/tuvi/Xem_tinh_cach_qua_12_cung_hoang_dao/index.php"><img class="favi" src="/images/icon/xemtuong72.png" height="70" width=70"><p class="name2">Tính cách 12 cung hoàng đạo</p></a></li> 
+<li><a class="hotlink2" href="/diem_cam_tam_the/index.php"><img class="favi" src="/images/icon/xemtuong73.png" height="70" width=70"><p class="name2">Diễm cầm tam thế</p></a></li> 
+<li><a class="hotlink2" href="/show.php?id=boiten"><img class="favi" src="/images/icon/xemtuong74.png" height="70" width=70"><p class="name2">Bói tên và Ngày sinh</p></a></li> 
+<li><a class="hotlink2" href="/show.php?id=boitheoso"><img class="favi" src="/images/icon/xemtuong75.png" height="70" width=70"><p class="name2">Bói theo số</p></a></li> 
+<li><a class="hotlink2" href="/show.php?id=notrui&htm=yes"><img class="favi" src="/images/icon/xemtuong76.png" height="70" width=70"><p class="name2">Xem nốt ruồi</p></a></li> 
+<li><a class="hotlink2" href="/boi/boi_not_ruoi/index.php"><img class="favi" src="/images/icon/xemtuong163.png" height="70" width=70"><p class="name2">Bói nốt ruồi</p></a></li> 
+<li><a class="hotlink2" href="/boi/tu_giai_mong/index.php"><img class="favi" src="/images/icon/xemtuong88.png" height="70" width=70"><p class="name2">Cách tự giải mộng</p></a></li> 
+<li><a class="hotlink2" href="/boi/giai_mong/index.php"><img class="favi" src="/images/icon/xemtuong89.png" height="70" width=70"><p class="name2">Giải mộng mới</p></a></li> 
+<li><a class="hotlink2" href="/boi/mo_so/index.php"><img class="favi" src="/images/icon/xemtuong90.png" height="70" width=70"><p class="name2">Giải mộng Số Đề Mới</p></a></li> 
+<li><a class="hotlink2" href="/show.php?id=so_de"><img class="favi" src="/images/icon/xemtuong90.png" height="70" width=70"><p class="name2">Giải mộng Số Đề</p></a></li> 
+<li><a class="hotlink2" href="/show.php?id=diem"><img class="favi" src="/images/icon/xemtuong91.png" height="70" width=70"><p class="name2">Điềm báo</p></a></li> 
+<li><a class="hotlink2" href="/show.php?id=giacmo"><img class="favi" src="/images/icon/xemtuong93.png" height="70" width=70"><p class="name2">Bí ẩn giấc mơ</p></a></li> 
+<li><a class="hotlink2" href="/show.php?id=giacmokh"><img class="favi" src="/images/icon/xemtuong93.png" height="70" width=70"><p class="name2">Bí ẩn giấc mơ - Khoa Học</p></a></li> 
+<li><a class="hotlink2" href="/show.php?id=giaimong"><img class="favi" src="/images/icon/xemtuong93.png" height="70" width=70"><p class="name2">Giải mộng</p></a></li> 
+<li><a class="hotlink2" href="/show.php?id=gicmothamkinh"><img class="favi" src="/images/icon/xemtuong93.png" height="70" width=70"><p class="name2">Giấc mơ thầm kín</p></a></li> 
+<li><a class="hotlink2" href="/tim_hieu_bua_ngai/index.php"><img class="favi" src="/images/icon/xemtuong94.png" height="70" width=70"><p class="name2">Tìm hiểu bùa ngãi</p></a></li> 
+<li><a class="hotlink2" href="/thuat-chieu-hon/index.php"><img class="favi" src="/images/icon/xemtuong95.png" height="70" width=70"><p class="name2">Thuật Chiêu Hồn</p></a></li> 
+<li><a class="hotlink2" href="/thuat-thoi-mien/index.php"><img class="favi" src="/images/icon/xemtuong96.png" height="70" width=70"><p class="name2">Thuật thôi miên</p></a></li> 
+<li><a class="hotlink2" href="/bi_an_ve_tien_kiep_hau_kiep/index.php"><img class="favi" src="/images/icon/xemtuong97.png" height="70" width=70"><p class="name2">Bí mật về tiền kiếp</p></a></li>
+<li><a class="hotlink2" href="/boi/xem_hoa_tay/index.php"><img class="favi" src="/images/icon/xemtuong162.png" height="70" width=70"><p class="name2">Bói Hoa Tay</p></a></li>
+<li><a class="hotlink2" href="/show.php?id=xem_chi_tay"><img class="favi" src="/images/icon/xemtuong161.png" height="70" width=70"><p class="name2">Bói Chỉ Tay</p></a></li>
+<li><a class="hotlink2" href="/boi/doan_thoi_van/index.php"><img class="favi" src="/images/icon/xemtuong167.png" height="70" width=70"><p class="name2">Dự đoán thời vận</p></a></li>
+</ul>  
+
+<div class="page-header"><h2>Chuyên mục tướng số</h2></div><ul class="favi_big2">
+<li><a class="hotlink2" href="/tuong_so/nhan_tuong_hoc/index.php"><img class="favi" src="/images/icon/xemtuong155.png" height="70" width=70"><p class="name2">Nhân Tướng Hoc <img border="0" src="/images/new.gif"></p></a></li>
+<li><a class="hotlink2" href="/nth/index.php"><img class="favi" src="/images/icon/xemtuong98.png" height="70" width=70"><p class="name2">Nhân tướng hoc</p></a></li>
+<li><a class="hotlink2" href="/nth/ma-y-than-tuong/index.php"><img class="favi" src="/images/icon/xemtuong99.png" height="70" width=70"><p class="name2">Ma Y Thần Tướng</p></a></li> 
+<li><a class="hotlink2" href="/nth/nghe_thuat_xem_tuong/index.php"><img class="favi" src="/images/icon/xemtuong100.png" height="70" width=70"><p class="name2">Nghệ thuật xem tướng</p></a></li> 
+<li><a class="hotlink2" href="/nth/nhan_tuong_hoc_tong_hop/index.php"><img class="favi" src="/images/icon/xemtuong101.png" height="70" width=70"><p class="name2">Tôi là thầy tướng số</p></a></li> 
+<li><a class="hotlink2" href="/nth/xem_tuong_biet_nguoi/index.php"><img class="favi" src="/images/icon/xemtuong102.png" height="70" width=70"><p class="name2">Xem tướng biết người</p></a></li> 
+<li><a class="hotlink2" href="/nguoi_dan_ba_trong_tuong_menh/index.php"><img class="favi" src="/images/icon/xemtuong103.png" height="70" width=70"><p class="name2">Tướng mệnh đàn bà</p></a></li> 
+<li><a class="hotlink2" href="/phep_xem_chi_tay/index.php"><img class="favi" src="/images/icon/xemtuong104.png" height="70" width=70"><p class="name2">Thuật xem chỉ tay</p></a></li> 
+<li><a class="hotlink2" href="/xemchitay/index.php"><img class="favi" src="/images/icon/xemtuong105.png" height="70" width=70"><p class="name2">Xem chỉ tay</p></a></li> 
+<li><a class="hotlink2" href="/tuong_so/ban_tay_va_van_menh/index.php"><img class="favi" src="/images/icon/xemtuong153.png" height="70" width=70"><p class="name2">Bàn Tay & Vận Mệnh</p></a></li> 
+<li><a class="hotlink2" href="/tuong_so/nhan_dang_bai_tay/index.php"><img class="favi" src="/images/icon/xemtuong154.png" height="70" width=70"><p class="name2">Nhận Dạng Bàn Tay</p></a></li> 
+<li><a class="hotlink2" href="/xem_chu_ky/index.php"><img class="favi" src="/images/icon/xemtuong106.png" height="70" width=70"><p class="name2">Nghệ thuật xem chữ ký</p></a></li> 
+<li><a class="hotlink2" href="/tuong_so/xem_tuong_chu/index.php"><img class="favi" src="/images/icon/xemtuong156.png" height="70" width=70"><p class="name2">Xem Tướng Chữ</p></a></li> 
+<li><a class="hotlink2" href="/tuong_menh_khao_luan/index.php"><img class="favi" src="/images/icon/xemtuong107.png" height="70" width=70"><p class="name2">Tướng mệnh khảo luân</p></a></li> 
+<li><a class="hotlink2" href="/tuong_phap_ao_bi/index.php"><img class="favi" src="/images/icon/xemtuong108.png" height="70" width=70"><p class="name2">Tướng Pháp Ảo Bí</p></a></li> 
+<li><a class="hotlink2" href="/show.php?id=tuongdi"><img class="favi" src="/images/icon/xemtuong109.png" height="70" width=70"><p class="name2">Tướng Đi</p></a></li>                                                                                        
+
+</ul>
+<div class="page-header"><h2>Chuyên mục phong tục Việt Nam và Sống đẹp</h2></div><ul class="favi_big2">
+<li><a class="hotlink2" href="/phong_tuc_viet_nam/van_cung/index.php?id=_tien_ong_tao"><img class="favi" src="/images/icon/xemtuong110.png" height="70" width=70"><p class="name2">Văn khấn ông Táo chầu trờ</p></a></li> 
+<li><a class="hotlink2" href="/phong_tuc_viet_nam/van_cung/index.php?id=_van_kha_gia_tien"><img class="favi" src="/images/icon/xemtuong111.png" height="70" width=70"><p class="name2">Văn khấn Gia tiên mùng Một Tết</p></a></li> 
+<li><a class="hotlink2" href="/phong_tuc_viet_nam/van_cung/index.php?id=_van_kha_giao_thua"><img class="favi" src="/images/icon/xemtuong111.png" height="70" width=70"><p class="name2">Văn khấn giao thừa ngoài trời</p></a></li> 
+<li><a class="hotlink2" href="/phong_tuc_viet_nam/van_cung/index.php?id=_van_kha_giao_thua_trong_nha"><img class="favi" src="/images/icon/xemtuong111.png" height="70" width=70"><p class="name2">Văn khấn giao thừa trong nhà</p></a></li> 
+<li><a class="hotlink2" href="/phong_tuc_viet_nam/van_cung/index.php?id=_van_kha_ta_mo"><img class="favi" src="/images/icon/xemtuong111.png" height="70" width=70"><p class="name2">Văn khấn tạ mộ phần cuối năm</p></a></li> 
+<li><a class="hotlink2" href="/phong_tuc_viet_nam/van_cung/index.php?id=_van_kha_ta_nam_moi"><img class="favi" src="/images/icon/xemtuong111.png" height="70" width=70"><p class="name2">Văn khấn tạ năm mới</p></a></li> 
+<li><a class="hotlink2" href="/phong_tuc_viet_nam/van_cung/index.php?id=_van_kha_tat_nien"><img class="favi" src="/images/icon/xemtuong111.png" height="70" width=70"><p class="name2">Văn khấn cúng tất niên cuối năm</p></a></li> 
+<li><a class="hotlink2" href="/phong_tuc_viet_nam/van_cung/index.php?id=_van_kha_than_linh_mung_mot"><img class="favi" src="/images/icon/xemtuong111.png" height="70" width=70"><p class="name2">Văn khấn trong nhà mùng một tết</p></a></li> 
+<li><a class="hotlink2" href="/phong_tuc_viet_nam/gio_tet.php?id=Letrutich_hay_Legiaothua"><img class="favi" src="/images/icon/xemtuong112.png" height="70" width=70"><p class="name2">Lễ trừ tịch Lễ giao thừa</p></a></li> 
+<li><a class="hotlink2" href="/phong_tuc_viet_nam/gio_tet.php?id=Sutich_BanhChung"><img class="favi" src="/images/icon/xemtuong113.png" height="70" width=70"><p class="name2">Sự tích bánh Chưng bánh dày</p></a></li> 
+<li><a class="hotlink2" href="/phong_tuc_viet_nam/gio_tet.php?id=tet_nguyen_dan"><img class="favi" src="/images/icon/xemtuong114.png" height="70" width=70"><p class="name2">Tết Nguyên Đán</p></a></li> 
+<li><a class="hotlink2" href="/phong_tuc_viet_nam/index.php"><img class="favi" src="/images/icon/xemtuong115.png" height="70" width=70"><p class="name2">Phong tục Việt Nam</p></a></li> 
+<li><a class="hotlink2" href="/phong_tuc_viet_nam/show.php?get=1&id=33_dieu_kien_ki"><img class="favi" src="/images/icon/xemtuong116.png" height="70" width=70"><p class="name2">33 điều kiên kị</p></a></li> 
+<li><a class="hotlink2" href="/phong_tuc_viet_nam/show.php?get=1&id=dau_nam_dua_loc_vao_nha"><img class="favi" src="/images/icon/xemtuong117.png" height="70" width=70"><p class="name2">Đầu năm đưa lộc vào nhà</p></a></li> 
+<li><a class="hotlink2" href="/phong_tuc_viet_nam/show.php?get=1&id=don_nha_don_tet_theo_phong_thuy"><img class="favi" src="/images/icon/xemtuong118.png" height="70" width=70"><p class="name2">Dọn nhà tết theo phong thuỷ</p></a></li> 
+<li><a class="hotlink2" href="/phong_tuc_viet_nam/show.php?get=1&id=xin_xam_ngay_tet"><img class="favi" src="/images/icon/xemtuong119.png" height="70" width=70"><p class="name2">Xin Xăm ngày tết</p></a></li> 
+<li><a class="hotlink2" href="/phong_tuc_viet_nam/show.php?get=1&id=xuat_hanh_dau_nam"><img class="favi" src="/images/icon/xemtuong120.png" height="70" width=70"><p class="name2">Xuất hành đầu năm</p></a></li> 
+<li><a class="hotlink2" href="/phong_tuc_viet_nam/van_cung/index.php"><img class="favi" src="/images/icon/xemtuong121.png" height="70" width=70"><p class="name2">Các bài văn cúng</p></a></li> 
+<li><a class="hotlink2" href="/thuat_su_the_cua_nguoi_xua/index.php"><img class="favi" src="/images/icon/xemtuong122.png" height="70" width=70"><p class="name2">Thuật xử thế của người xưa</p></a></li> 
+<li><a class="hotlink2" href="/van_hoc/dac_nhan_tam/index.php"><img class="favi" src="/images/icon/xemtuong123.png" height="70" width=70"><p class="name2">Đắc Nhân Tâm</p></a></li> 
+<li><a class="hotlink2" href="/van_hoc/dai_viet_su_ky_toan_thu/index.php"><img class="favi" src="/images/icon/xemtuong124.png" height="70" width=70"><p class="name2">Đại Việt Sử Ký toàn thư</p></a></li> 
+<li><a class="hotlink2" href="/van_hoc/doi_thay_doi_khi_ta_thay_doi/index.php"><img class="favi" src="/images/icon/xemtuong125.png" height="70" width=70"><p class="name2">Dời thay đổi khi ta thay đổi</p></a></li> 
+<li><a class="hotlink2" href="/van_hoc/quang_ganh_lo_di/index.php"><img class="favi" src="/images/icon/xemtuong126.png" height="70" width=70"><p class="name2">Quảng gánh lo đi</p></a></li> 
+<li><a class="hotlink2" href="/ca_dao_viet_nam/index.php"><img class="favi" src="/images/icon/xemtuong127.png" height="70" width=70"><p class="name2">Ca dao Việt Nam</p></a></li> 
+<li><a class="hotlink2" href="/ca_dao_viet_nam/index.php"><img class="favi" src="/images/icon/xemtuong127.png" height="70" width=70"><p class="name2">Kho Ca đao Việt Nam</p></a></li> 
+<li><a class="hotlink2" href="/dich_can_kinh/index.php"><img class="favi" src="/images/icon/xemtuong128.png" height="70" width=70"><p class="name2">Thiếu Lâm Dịch Cân Kinh</p></a></li> 
+<li><a class="hotlink2" href="/minh_tam_buu_giam/index.php"><img class="favi" src="/images/icon/xemtuong129.png" height="70" width=70"><p class="name2">Minh Tâm Bửu Giám</p></a></li> 
+<li><a class="hotlink2" href="/show.php?id=vo_thieu_lam"><img class="favi" src="/images/icon/xemtuong130.png" height="70" width=70"><p class="name2">Võ Thiếu Lâm Tự</p></a></li> 
+<li><a class="hotlink2" href="/show.php?id=y_hoc_dan_gian"><img class="favi" src="/images/icon/xemtuong131.png" height="70" width=70"><p class="name2">Y học dân gian</p></a></li> 
+<li><a class="hotlink2" href="/show.php?id=daoduckinh"><img class="favi" src="/images/icon/xemtuong132.png" height="70" width=70"><p class="name2">Đạo đức kinh</p></a></li> 
+<li><a class="hotlink2" href="/show.php?id=tamthap"><img class="favi" src="/images/icon/xemtuong133.png" height="70" width=70"><p class="name2">Tam thập lục kế</p></a></li>                                                                     
+<li><a class="hotlink2" href="/show.php?id=thay_thuoc_online"><img class="favi" src="/images/icon/xemtuong174.png" height="70" width=70"><p class="name2">Thầy thuốc online</p></a></li>                                                                     
+
+</ul>  
+<div class="page-header"><h2>Chuyên mục phong thủy</h2></div><ul class="favi_big2">
+<li><a class="hotlink2" href="/xem_ngu_hanh/index.php?action=botri"><img class="favi" src="/images/icon/xemtuong134.png" height="70" width=70"><p class="name2">Bố trí nội thất</p></a></li> 
+<li><a class="hotlink2" href="/xem_ngu_hanh/index.php?action=dinhmuc"><img class="favi" src="/images/icon/xemtuong135.png" height="70" width=70"><p class="name2">Định mức cấp phối vật liệu XD</p></a></li> 
+<li><a class="hotlink2" href="/xem_ngu_hanh/index.php?action=dutoan"><img class="favi" src="/images/icon/xemtuong136.png" height="70" width=70"><p class="name2">Dự toán chi tiết nhà ở</p></a></li> 
+<li><a class="hotlink2" href="/xem_ngu_hanh/index.php?action=garden"><img class="favi" src="/images/icon/xemtuong137.png" height="70" width=70"><p class="name2">Màu sắc sân vườn</p></a></li> 
+<li><a class="hotlink2" href="/xem_ngu_hanh/index.php?action=khaitoan"><img class="favi" src="/images/icon/xemtuong139.png" height="70" width=70"><p class="name2">Khái toán sơ lược nhà ở</p></a></li> 
+<li><a class="hotlink2" href="/phongthuy/thuoc_lo_ban/index.php"><img class="favi" src="/images/icon/xemtuong140.png" height="70" width=70"><p class="name2">Thước Lỗ Ban Đủ 3 Loại <img border="0" src="/images/new.gif"></p></a></li> 
+<li><a class="hotlink2" href="/xem_ngu_hanh/index.php?action=loban"><img class="favi" src="/images/icon/xemtuong140.png" height="70" width=70"><p class="name2">Thước Lỗ Ban đo hung cát</p></a></li> 
+<li><a class="hotlink2" href="/xem_ngu_hanh/index.php?action=mauson"><img class="favi" src="/images/icon/xemtuong142.png" height="70" width=70"><p class="name2">Chọn sơn nhà theo phong thủy</p></a></li> 
+<li><a class="hotlink2" href="/xem_ngu_hanh/index.php?action=thietbi"><img class="favi" src="/images/icon/xemtuong143.png" height="70" width=70"><p class="name2">Chọn thiết bị trong phòng</p></a></li> 
+<li><a class="hotlink2" href="/xem_ngu_hanh/index.php?action=thoitrang"><img class="favi" src="/images/icon/xemtuong144.png" height="70" width=70"><p class="name2">Thời trang theo phong thủy</p></a></li> 
+<li><a class="hotlink2" href="/xem_ngu_hanh/index.php?action=vanphong"><img class="favi" src="/images/icon/xemtuong145.png" height="70" width=70"><p class="name2">Phong thủy văn phòng</p></a></li> 
+<li><a class="hotlink2" href="/xem_ngu_hanh/index.php?action=vatlieu"><img class="favi" src="/images/icon/xemtuong146.png" height="70" width=70"><p class="name2">Dự trù vật tư xây nhà</p></a></li> 
+<li><a class="hotlink2" href="/xem_ngu_hanh/index.php?action=venha"><img class="favi" src="/images/icon/xemtuong147.png" height="70" width=70"><p class="name2">Bát Trạch Minh Cảnh</p></a></li> 
+<li><a class="hotlink2" href="/xem_ngu_hanh/index.php?action=xemnha"><img class="favi" src="/images/icon/xemtuong148.png" height="70" width=70"><p class="name2">Tính sao cho nhà ở</p></a></li> 
+<li><a class="hotlink2" href="/xem_ngu_hanh/index.php?action=xemtuoi"><img class="favi" src="/images/icon/xemtuong149.png" height="70" width=70"><p class="name2">Xem tuổi xây nhà</p></a></li> 
+<li><a class="hotlink2" href="/phongthuy/bi-an-ve-phong-thuy/index.php"><img class="favi" src="/images/icon/xemtuong150.png" height="70" width=70"><p class="name2">Bí ẩn về phong thuỷ</p></a></li> 
+<li><a class="hotlink2" href="/phongthuy/chon_huong_nha_va_bo_cuc_noi_that/index.php"><img class="favi" src="/images/icon/xemtuong150.png" height="70" width=70"><p class="name2">Chọn hướng nhà</p></a></li> 
+<li><a class="hotlink2" href="/phongthuy/dia-ly-phong-thuy/index.php"><img class="favi" src="/images/icon/xemtuong150.png" height="70" width=70"><p class="name2">Địa lý phong thuỷ</p></a></li> 
+<li><a class="hotlink2" href="/phongthuy/duong-co-chung-giai/index.php"><img class="favi" src="/images/icon/xemtuong151.png" height="70" width=70"><p class="name2">Dương cơ chứng giải</p></a></li> 
+<li><a class="hotlink2" href="/phongthuy/hong_vu_cam_thu/index.php"><img class="favi" src="/images/icon/xemtuong152.png" height="70" width=70"><p class="name2">Hồng Thuỷ Cấm Thư</p></a></li> 
+<li><a class="hotlink2" href="/phongthuy/huong_nam/index.php"><img class="favi" src="/images/icon/xemtuong152.png" height="70" width=70"><p class="name2">Chọn hướng kê giuờng</p></a></li> 
+<li><a class="hotlink2" href="/phongthuy/index.php"><img class="favi" src="/images/icon/xemtuong152.png" height="70" width=70"><p class="name2">Thuật Phong Thuỷ</p></a></li> 
+<li><a class="hotlink2" href="/phongthuy/kien_ky_khi_chon_dat_lam_nha.php"><img class="favi" src="/images/icon/xemtuong152.png" height="70" width=70"><p class="name2">Kiên kỵ khi chọn đất làm nhà</p></a></li> 
+<li><a class="hotlink2" href="/phongthuy/nhung-dieu-can-biet-ve-phong-thuy/index.php"><img class="favi" src="/images/icon/xemtuong152.png" height="70" width=70"><p class="name2">Cần biết về phong thuỷ</p></a></li> 
+<li><a class="hotlink2" href="/phongthuy/phong_thuy_hoc/index.php"><img class="favi" src="/images/icon/xemtuong152.png" height="70" width=70"><p class="name2">Phong Thuỷ Học</p></a></li>
+</ul> <p><center><a onclick="window.open(this.href,'targetWindow','toolbar=no,location=0,status=no,menubar=no,scrollbars=yes,resizable=yes,width=600,height=350'); return false;" href="http://www.facebook.com/sharer.php?u=http://tuvi.xemtuong.net/admin.php" target="_blank"><img class="img-responsive" src="/images/sharefacebook.png"></a><br></center></div>
+<!--body-->
+
+<!-- menu -->
+<div class="col-sm-3  blog-sidebar"><form  class="input-group" name="search" method="get" action="/baiviet.php">
+<input class="form-control" placeholder="Tìm kiếm ở XemTuong.net" value="" type="text" name="q">
+<span class="input-group-btn"><button class="btn btn-default" type="submit"><span class="glyphicon glyphicon-search"></span></button></span>
+</form>
+<p>
+<form  class="input-group" name="search" method="get" action="http://www.google.com/search" target="_blank">
+<input class="form-control" placeholder="Tìm với google..." type="text" name="q">
+<input type="hidden" value="xemtuong.net" name="domains" />
+<input type="hidden" value="xemtuong.net" name="sitesearch" />
+<input type="hidden" value="en" name="hl" />
+<input type="hidden" value="Search" name="sa" />
+<span class="input-group-btn"><button class="btn btn-default" type="submit"><span class="glyphicon glyphicon-search"></span></button></span>
+</form>
+<p> 
+
+<div class="list-group">
+<a href="#" class="list-group-item" style="background-color:#FFE991;"><span class="glyphicon glyphicon-thumbs-up" aria-hidden="true"></span> <strong>Những trang web hay</strong></a>
+<div class="menu_simple">
+<ul>
+<li><a target="_blank" href="http://naungon.com">NauNgon.com - Dạy nấu ăn</a></li>
+<li><a target="_blank" href="http://go47.com">Go47.com - Học 55 thứ tiếng</a></li>
+<li><a target="_blank" href="http://baidich.com">Baidich.com - Dịch lời bài hát</a></li>
+<li><a target="_blank" href="http://tienganhabc.com">Tienganhabc.com - Học English</a></li>
+<li><a target="_blank" href="http://youbebo.com">Youbebo.com - English cấp tốc</a></li>
+<li><a target="_blank" href="http://vdict.co">Vdict.co - Từ điển</a></li>
+<li><a target="_blank" href="http://singkar.com">Singkar.com - Karaoke online</a></li>
+<li><a target="_blank" href="http://vnn777.com">Vnn777.com - Danh bạ web</a></li>
+<li><a target="_blank" href="http://ybacsi.com">Ybacsi.com - Thuốc hay</a></li>
+<li><a target="_blank" href="http://sinhcon.com">Sinhcon.com - Mẹ và bé</a></li>
+<li><a target="_blank" href="http://etruyen.com">Etruyen.com - Đọc truyện</a></li>
+<li><a target="_blank" href="http://chuaonline.com">Chuaonline.com - Đi chùa online</a></li>
+<li><a target="_blank" href="http://khogame.com">Khogame.com - Chơi game</a></li>
+</ul>
+</div>
+</div>
+
+
+
+ 
+<p class="text-justify"> <a class="label" style="background-color: #244443" href="/baiviet.php?q=Bạn">Bạn</a>
+<a class="label" style="background-color: #04AE4B" href="/baiviet.php?q=chỉ tay đường trí đạo">chỉ tay đường trí đạo</a>
+<a class="label" style="background-color: #FD2D93" href="/baiviet.php?q=nhà chung cư hợp phong thủy">nhà chung cư hợp phong thủy</a>
+<a class="label" style="background-color: #D60C33" href="/baiviet.php?q=tuổi Ngọ mệnh Thổ">tuổi Ngọ mệnh Thổ</a>
+<a class="label" style="background-color: #6E4129" href="/baiviet.php?q=Đặt tên cho bé gái">Đặt tên cho bé gái</a>
+<a class="label" style="background-color: #EE9FC3" href="/baiviet.php?q=tướng mạo con người">tướng mạo con người</a>
+<a class="label" style="background-color: #5FCAC1" href="/baiviet.php?q=bưu">bưu</a>
+<a class="label" style="background-color: #D4DC02" href="/baiviet.php?q=khe hở bàn tay">khe hở bàn tay</a>
+<a class="label" style="background-color: #D57AD3" href="/baiviet.php?q=đeo nhẫn">đeo nhẫn</a>
+<a class="label" style="background-color: #78B65F" href="/baiviet.php?q=cung cự giải lai sư tử">cung cự giải lai sư tử</a>
+<a class="label" style="background-color: #3320B2" href="/baiviet.php?q=Hội Bà Chiêm Sơn">Hội Bà Chiêm Sơn</a>
+<a class="label" style="background-color: #221FE9" href="/baiviet.php?q=mẫu phòng bếp đơn giản">mẫu phòng bếp đơn giản</a>
+<a class="label" style="background-color: #278694" href="/baiviet.php?q=vÃµ">vÃµ</a>
+<a class="label" style="background-color: #9D30CB" href="/baiviet.php?q=Vi">Vi</a>
+<a class="label" style="background-color: #2AAFD7" href="/baiviet.php?q=mau">mau</a>
+<a class="label" style="background-color: #E9313E" href="/baiviet.php?q=xay nha">xay nha</a>
+<a class="label" style="background-color: #B856D3" href="/baiviet.php?q=Kim Ngưu">Kim Ngưu</a>
+<a class="label" style="background-color: #02DAC3" href="/baiviet.php?q=cửa sổ bếp">cửa sổ bếp</a>
+<a class="label" style="background-color: #E46CED" href="/baiviet.php?q=hình xăm ngôi sao">hình xăm ngôi sao</a>
+<a class="label" style="background-color: #8F1F7B" href="/baiviet.php?q=nếp">nếp</a>
+<a class="label" style="background-color: #368745" href="/baiviet.php?q=bài tập cho cơ thể khỏe mạnh">bài tập cho cơ thể khỏe mạnh</a>
+<a class="label" style="background-color: #C85AE5" href="/baiviet.php?q=Sao Vũ Khúc ở cung mệnh">Sao Vũ Khúc ở cung mệnh</a>
+<a class="label" style="background-color: #C2BC2C" href="/baiviet.php?q=chuyện tình song tử và nhân mã">chuyện tình song tử và nhân mã</a>
+<a class="label" style="background-color: #E6D899" href="/baiviet.php?q=mo">mo</a>
+<a class="label" style="background-color: #2D0E5D" href="/baiviet.php?q=chất độc amoniac">chất độc amoniac</a>
+<a class="label" style="background-color: #B1FFC7" href="/baiviet.php?q=lưu">lưu</a>
+<a class="label" style="background-color: #A0CD88" href="/baiviet.php?q=xem tử vi Nhận diện khuôn mặt trường">xem tử vi Nhận diện khuôn mặt trường</a>
+<a class="label" style="background-color: #0D195C" href="/baiviet.php?q=Phong thủy thúc vượng đào hoa">Phong thủy thúc vượng đào hoa</a>
+<a class="label" style="background-color: #5A3A40" href="/baiviet.php?q=Mo thay me">Mo thay me</a>
+<a class="label" style="background-color: #050BE2" href="/baiviet.php?q=12 cung hoàng Đạo">12 cung hoàng Đạo</a>
+<a class="label" style="background-color: #CE7E1D" href="/baiviet.php?q=mâu">mâu</a>
+<a class="label" style="background-color: #7CB8A8" href="/baiviet.php?q=chùa hương">chùa hương</a>
+<a class="label" style="background-color: #0638A7" href="/baiviet.php?q=duyen">duyen</a>
+<a class="label" style="background-color: #9074A4" href="/baiviet.php?q=Sao Thiên phúc">Sao Thiên phúc</a>
+<a class="label" style="background-color: #27DBCA" href="/baiviet.php?q=CÃšNG">CÃšNG</a>
+<a class="label" style="background-color: #493E37" href="/baiviet.php?q=Đời">Đời</a>
+<a class="label" style="background-color: #FDEB3F" href="/baiviet.php?q= xác định hướng nhà"> xác định hướng nhà</a>
+<a class="label" style="background-color: #393D8D" href="/baiviet.php?q=Biện">Biện</a>
+<a class="label" style="background-color: #E0E1ED" href="/baiviet.php?q=hoÃ Æ">hoÃ Æ</a>
+<a class="label" style="background-color: #7933FD" href="/baiviet.php?q=Cung Song Tử">Cung Song Tử</a>
+<a class="label" style="background-color: #54819B" href="/baiviet.php?q=Giản">Giản</a>
+<a class="label" style="background-color: #28C380" href="/baiviet.php?q=Màu sắc">Màu sắc</a>
+<a class="label" style="background-color: #B403FB" href="/baiviet.php?q=Tác">Tác</a>
+<a class="label" style="background-color: #1EBB24" href="/baiviet.php?q=Tử vi tháng hai của người tuổi Mão">Tử vi tháng hai của người tuổi Mão</a>
+<a class="label" style="background-color: #516E26" href="/baiviet.php?q=bảo bình nam 2014">bảo bình nam 2014</a>
+<a class="label" style="background-color: #B2EE44" href="/baiviet.php?q=ma">ma</a>
+<a class="label" style="background-color: #49F68A" href="/baiviet.php?q=công việc">công việc</a>
+<a class="label" style="background-color: #4A54A0" href="/baiviet.php?q=dao">dao</a>
+<a class="label" style="background-color: #33486F" href="/baiviet.php?q=phong tục cổ truyền">phong tục cổ truyền</a>
+<a class="label" style="background-color: #395F0F" href="/baiviet.php?q=phong thủy chiều cao tầng nhà">phong thủy chiều cao tầng nhà</a>
+<a class="label" style="background-color: #6453AB" href="/baiviet.php?q=rá">rá</a></p>
+
+
+<div class="list-group">
+<a href="#" class="list-group-item" style="background-color:#FFE991;"><span class="glyphicon glyphicon-knight" aria-hidden="true"></span> <strong>Xem Tuổi</strong></a>
+<div class="menu_simple">
+<ul>
+<li><a href="/tuvi/2020_canh_ty/index.php">Thái Ất Tử Vi năm Canh Tý 2020</a></li>
+<li><a href="/xem_ngay/xem_sao_han/index.php">Sao Hạn năm Canh Tý 2020</a></li>
+<li><a href="/boi/xong_nha_nam_moi/index.php">Xông nhà năm Canh Tý 2020</a></li>
+<li><a href="/boi/xem_tuoi_ket_hon/index.php">Coi tuổi kết hôn <img border="0" src="/images/hot.gif"></a></li>
+<li><a href="/boi/xem_tuoi_vo_chong/index.php">Xem tuổi vợ chồng <img border="0" src="/images/hot.gif"></a></li>
+<li><a href="/canduyentiendinh/index.php">Căn Duyên Tiền Định </a></li>
+<li><a href="/xem_ngu_hanh/index.php?action=xemtuoi">Xem tuổi xây nhà </a></li>
+<li><a href="/caolydauhinh/index.php">Cao Ly Đầu Hình </a></li>
+<li><a href="/boi/thien_van_van_so/index.php">Thiên Văn Vận Số <img border="0" src="/images/hot.gif"></a></li>
+
+</ul>
+</div>
+</div>
+
+<div class="list-group">
+<a href="#" class="list-group-item" style="background-color:#FFE991"><span class="glyphicon glyphicon-th" aria-hidden="true"></span> <strong>Xem Ngày</strong></a>
+<div class="menu_simple">
+<ul>
+<li><a href="/xem_ngay/index.php">Xem Ngày Vạn Sự <img border="0" src="/images/hot.gif"> </a></li>
+<li><a target="_blank" href="https://xemchonngaytot.blogspot.com/">Danh sách 60 năm xem ngày tốt</a></li>
+<li><a href="/xem_ngay/tot_trong_thang/index.php">Xem ngày tốt trong tháng </a></li>
+<li><a href="/xem_ngay/xem_tuoi_xem_ngay/index.php">Xem Tuổi Xem Ngày </a></li>
+<li><a href="/xem_ngay/nhap_trach/index.php">Xem Ngày Chuyển Nhà Nhập Trạch </a></li>
+<li><a href="/xem_ngay/xuat_hanh/index.php">Xem Ngày Xuất Hành </a></li>
+<li><a href="/xem_ngay/xem_gio_tot/index.php">Xem giờ Tốt </a></li>
+<li><a href="/xem_ngay/xem_ngay_cuoi/index.php">Xem Ngày Cưới Hỏi <img border="0" src="/images/hot.gif"></a></li>
+<li><a href="/xem_ngay/cau_tai_khai_truong/index.php">Xem ngày khai trương </a></li>
+<li><a href="/xem_ngay/cau_tai_khai_truong/ky_hop_dong.php">Xem ngày ký hợp đồng </a></li>
+<li><a href="/xem_ngay/xay_dung/muabannha.php">Xem ngày mua nhà </a></li>
+<li><a href="/xem_ngay/xay_dung/index.php">Xem ngày xây nhà sửa nhà </a></li>
+<li><a href="/xem_ngay/mua_xe/index.php">Xem ngày tốt mua xe </a></li>
+<li><a href="/xem_ngay/suc_khoe/index.php">Xem ngày chữa bệnh, đi thẩm mỹ </a></li>
+<li><a href="/xem_ngay/nop_don/index.php">Xem ngày nộp đơn nộp hồ sơ </a></li>
+<li><a href="/xem_ngay/chon_cat/index.php">Xem ngày chôn cất ma chay </a></li>
+<li><a href="/boi/tam_tong_mieu/index.php">Tam Tông Miếu Xem Ngày </a></li>
+</ul>
+</div>
+</div>
+
+<div class="list-group">
+<a href="#" class="list-group-item" style="background-color:#FFE991"><span class="glyphicon glyphicon-user" aria-hidden="true"></span> <strong>Xem Tướng</strong></a>
+<div class="menu_simple">
+<ul>
+<li><a href="/tuong_so/nhan_tuong_hoc/index.php">Nhân Tướng Hoc <img border="0" src="/images/new.gif"></a></li>
+<li><a href="/tuong_so/lieu_trang_than_tuong/index.php">Liễu Trang Thần Tướng <img border="0" src="/images/new.gif"></a></li>
+<li><a href="/nth/index.php">Nhân Tướng Học </a></li>
+<li><a href="/nth/nhan_tuong_hoc_tong_hop/index.php">Tôi là thầy tướng số </a></li>
+<li><a href="/nth/xem_tuong_biet_nguoi/index.php">Xem tướng biết người </a></li>
+<li><a href="/tuong_phap_ao_bi/index.php">Tướng Pháp Ảo Bí </a></li>
+<li><a href="/tuong_menh_khao_luan/index.php">Tướng mệnh khảo luân </a></li>
+<li><a href="/nth/nghe_thuat_xem_tuong/index.php">Nghệ thuật xem tướng </a></li>
+<li><a href="/nguoi_dan_ba_trong_tuong_menh/index.php">Tướng mệnh đàn bà </a></li>
+<li><a href="/nth/ma-y-than-tuong/index.php">Ma Y Thần Tướng </a></li>
+<li><a href="/xemchitay/index.php">Xem chỉ tay </a></li>
+<li><a href="/phep_xem_chi_tay/index.php">Thuật xem chỉ tay </a></li>
+<li><a href="/tuong_so/ban_tay_va_van_menh/index.php">Bàn Tay & Vận Mệnh </a></li> 
+<li><a href="/tuong_so/nhan_dang_bai_tay/index.php">Nhận Dạng Bàn Tay </a></li> 
+<li><a href="/xem_chu_ky/index.php">Xem chữ ký </a></li>
+<li><a href="/tuong_so/xem_tuong_chu/index.php">Xem Tướng Chữ </a></li> 
+<li><a href="/show.php?id=tuongdi">Tướng đi </a></li>
+<li><a href="/show.php?id=notrui&htm=yes">Xem nốt ruồi </a></li>
+<li><a href="/nth/coi_tuong_dan_ba/index.php"> Coi tướng đàn bà </a></li>
+<li><a href="/nth/tuong_mao_va_sac_dien/index.php"> Tướng mạo và Sắc diện </a></li>
+<li><a href="/nth/giai_ma_cuoc_doi/index.php"> Giải mã cuộc đời </a></li>
+<li><a href="/nth/tieng_noi_cua_ban_tay/index.php"> Tiếng nói của bàn tay </a></li>
+</ul>
+</div>
+</div>
+
+
+
+<div class="list-group">
+<a href="#" class="list-group-item" style="background-color:#FFE991"><span class="glyphicon glyphicon-globe" aria-hidden="true"></span> <strong>Xem Tử Vi</strong></a>
+<div class="menu_simple">
+<ul>
+<li><a href="/an_sao_tu_vi/index.php">Lá số tử vi & bình giải <img border="0" src="/images/new.gif"> <img border="0" src="/images/hot.gif"> </a></li>
+<li><a href="/KHHB/tuvi/index.php">Lá số tử vi & bình giải </a></li>
+<li><a target="_blank" href="https://tuvixemngay.blogspot.com/">Danh Sánh Lá số Tử Vi</a></li>
+<li><a href="/tuvi/2020_canh_ty/index.php">Tử Vi Năm Canh Tý 2020 <img border="0" src="/images/new.gif"></a></li>
+<li><a href="/tuvi/2019_ky_hoi/index.php">Tử Vi Năm Kỷ Hợi 2019</a></li>
+<li><a href="/quicoctoanmenh/index.php">Lá số Quỷ Cốc Toán Mệnh <img border="0" src="/images/new.gif"></a></li>
+<li><a href="/tuvi/tuvi_tron_doi/index.php">Tử Vi Trọn Đời </a></li>
+<li><a href="/tuvi/trung_chau_tuvi/index.php">Trung Châu Tử Vi Đẩu Số</a></li>
+<li><a href="/tuvi/tu_vi_hang_tuan/index.php">Tử Vi Hàng Tuần</a></li>
+<li><a href="/tuvi/cau-chuyen-tu-vi/index.php">Câu chuyện tử vi</a></li>
+<li><a href="/tuvi/chia_khoa_tu_vi/index.php">Chìa khoá tử vi</a></li>
+<li><a href="/tuvi/muon_luan_doan_dung_tuvi/index.php">Muốn luận đoán đúng lá tử vi</a></li>
+<li><a href="/tuvi/so-tu-vi-duoi-mat-khoa-hoc/index.php">Tử vi dưới mắt khoa học</a></li>
+<li><a href="/tuvi/tu_dien_tu_vi/index.php">Từ điển tử vi</a></li>
+<li><a href="/show.php?id=tu_dien_tu_vi">Tra Từ Điển Tử Vi</a></li>
+<li><a href="/tuvi/tu_vi_ao_bi_bien_chung/index.php">Tử vi ảo bí biện chứng</a></li>
+<li><a href="/tuvi/tu_vi_bo_tuc/index.php">Tử vi bổ túc</a></li>
+<li><a href="/tuvi/linh_khu_thoi_menh_ly/index.php">Linh khu thời mệnh lý</a></li>
+<li><a href="/tuvi/tu_vi_chi_nam/index.php">Tử vi chỉ nam</a></li>
+<li><a href="/tuvi/tu_vi_dau_so_ly_hoc/index.php">Tử vi Đẩu Số lý học</a></li>
+<li><a href="/tuvi/tu_vi_dau_so_toan_thu/index.php">Tử vi Đẩu Số toàn thư</a></li>
+<li><a href="/tuvi/tu_vi_ham_so/index.php">Tử vi hàm số</a></li>
+<li><a href="/show.php?id=tu_vi_ham_so">Trích Tử vi hàm số</a></li>
+<li><a href="/tuvi/tu_vi_khao_luan/index.php">Tử vi khảo luận</a></li>
+<li><a href="/tuvi/tu_vi_lap_thanh_du_doan/index.php">Tử vi lập thành và phụ đoán</a></li>
+<li><a href="/tuvi/tu_vi_tong_hop/index.php">Tử vi tổng hợp</a></li>
+<li><a href="/tuvi/tu_vi_thuc_hanh/index.php">Tử vi thực hành</a></li>
+<li><a href="/tuvi/tuvi_nghiem_ly_toan_thu/index.php">Tử Vi Nghiệm Lý Toàn Thư</a></li>
+<li><a href="/tuvi/tuvi_nghiemly_ly_menh_hoc/index.php">Tử Vi Nghiệm Lý Mệnh Học</a></li>
+<li><a href="/tuvi/tuvi_tron_doi/index.php">Tử vi trọn đời</a></li>
+<li><a href="/tuvi/tu-vi-tru-me-tin/index.php">Tử vi trừ mê tín</a></li>
+<li><a href="/tuvi/thai-at-than-kinh/index.php">Thái Ất Thần Kinh</a></li>
+<li><a href="/tuvidauso/index.php">Tử Vi đẩu số</a></li>
+<li><a href="/tuvikinhnghiem/index.php">Tử Vi Kinh Nghiệm</a></li>
+<li><a href="/tuvituongphap/index.php">Tử Vi Tướng Pháp</a></li>
+</ul>
+</div>
+</div>
+
+
+
+<div class="list-group">
+<a href="#" class="list-group-item" style="background-color:#FFE991"><span class="glyphicon glyphicon-screenshot" aria-hidden="true"></span> <strong>Xem Tứ Trụ</strong></a>
+<div class="menu_simple">
+<ul>
+<li><a href="/KHHB/tu_binh_bat_tu_tru/index.php">Xem Bát Tự - Tử Bình <img border="0" src="/images/hot.gif"><img border="0" src="/images/new.gif"> </a></li>
+<li><a href="/KHHB/tubinh/index.php">Xem Bát Tự - Tử Bình</a></li>
+<li><a target="_blank" href="https://tutrutubinh.blogspot.com/">Danh Sánh Lá số Tứ Trụ</a></li>
+</ul>
+</div>
+</div>
+
+<div class="list-group">
+<a href="#" class="list-group-item" style="background-color:#FFE991"><span class="glyphicon glyphicon-education" aria-hidden="true"></span> <strong>Con Yêu</strong></a>
+<div class="menu_simple">
+<ul>
+<li><a href="/sinh_con/dat_ten_theo_ngu_hanh/index.php">Đặt tên con theo ngũ hành </a></li>
+<li><a href="/xem_ngu_hanh/index.php?action=hoten">Đặt tên con theo ngũ hành (cũ)</a></li>
+<li><a href="/xem_ngu_hanh/index.php?action=namsinhcon">Chọn năm sinh con </a></li>
+<li><a href="/KHHB/xem-tuoi-con/index.php">Xem Bói Cho Bé </a></li>
+<li><a href="/chon_gio_tot_sinh_mo.php">Chọn giờ tốt sinh mổ </a></li>
+</ul>
+</div>
+</div>
+
+<div class="list-group">
+<a href="#" class="list-group-item" style="background-color:#FFE991"><span class="glyphicon glyphicon-sunglasses" aria-hidden="true"></span> <strong>Xem Bói</strong></a>
+<div class="menu_simple">
+<ul>
+<li><a href="/boi/diem_cam_tam_the/index.php">Xem Bói Thầy Tư</a></li>
+<li><a href="/boi/boi_bai/index.php">Bói Bài </a></li>
+<li><a href="/boi/boi_bai_hang_ngay/index.php">Bói Bài Hàng Ngày <img border="0" src="/images/new.gif"></a></li>
+<li><a href="/boi/boi_bai_tarot/hang_ngay/index.php">Bói Bài Tarot Hôm Nay <img border="0" src="/images/new.gif"></a></li>
+<li><a href="/boi/boi_bai_tarot/hang_tuan/index.php">Bói Bài Tarot Tuần Này <img border="0" src="/images/new.gif"></a></li>
+<li><a href="/boi/boi_bai_tarot/hang_thang/index.php">Bói Bài Tarot Tháng Này <img border="0" src="/images/new.gif"></a></li>
+<li><a href="/boi/boi_bai_tarot/boi_go_roi/index.php">Bói Bài Gỡ Rối <img border="0" src="/images/new.gif"></a></li>
+<li><a href="/boi/boi_bai_tinh_yeu/index.php">Bói Bài Tình Yêu</a></li>
+<li><a href="/boi/boi_kieu/index.php">Bói Kiều </a></li>
+<li><a href="/boi/boi_kieu2/index.php">Bói Kiều 2 <img border="0" src="/images/new.gif"></a></li>
+<li><a href="/boi/boi_ten/index.php">Thần số học Bói tên </a>
+<li><a href="/boivui/index.php">Bói Tâm Lý</a></li>
+<li><a href="/xem_ngu_hanh/index.php?action=xemsodep">Xem và chọn số đẹp </a></li>
+<li><a href="/xem_ngu_hanh/index.php?action=tinhyeu">Xem tình duyên </a></li>
+<li><a href="/boi/xem_hoa_tay/index.php">Xem bói hoa tay <img border="0" src="/images/new.gif"></a></li>
+<li><a href="/show.php?id=xem_chi_tay">Xem bói chỉ tay <img border="0" src="/images/new.gif"></a></li>
+<li><a href="/boi/boi_not_ruoi/index.php">Xem bói nốt ruồi tổng hợp <img border="0" src="/images/new.gif"></a></li>
+<li><a href="/boi/doan_thoi_van/index.php">Dự đoán thời vận<img border="0" src="/images/new.gif"></a></li>
+</ul>
+</div>
+</div>
+
+<div class="list-group">
+<a href="#" class="list-group-item" style="background-color:#FFE991"><span class="glyphicon glyphicon-flash" aria-hidden="true"></span> <strong>Gieo quẻ - Xin Xâm</strong></a>
+<div class="menu_simple">
+<ul>
+<li><a href="/boi/gieo_que_dau_nam/index.php">Bói quẻ đầu năm<img border="0" src="/images/new.gif"></a></li>
+<li><a href="/gieo_que_dich_so/index.php">Gieo Quẻ Dịch Số mới<img border="0" src="/images/new.gif"></a></li>
+<li><a href="/bat_tu_ha_lac/index.php">Bát Tự Hà Lạc mới<img border="0" src="/images/new.gif"></a></li>
+<li><a href="/hoa_mai_dich_so/index.php">Mai Hoa Dịch Số mới <img border="0" src="/images/new.gif"></a></li>
+<li><a href="/lac_viet_don_toan/index.php">Lạc Việt Độn Toán <img border="0" src="/images/new.gif"></a></li>
+<li><a href="/xem_ngu_hanh/index.php?action=halaclyso">Hà Lạc Lý Số </a></li>
+<li><a href="/xem_ngu_hanh/index.php?action=maihoadichso">Mai Hoa Dịch Số </a></li>
+<li><a href="/boi/gieo_que_hoi_viec/index.php">Gieo Quẻ Hỏi Việc <img border="0" src="/images/hot.gif"></a></li>
+<li><a href="/boi/gieo_que_hoi_viec2/index.php">Gieo Quẻ Hỏi Việc 2 <img border="0" src="/images/hot.gif"></a></li>
+<li><a href="/boi/gieo_que_ho_ten/index.php">Gieo Quẻ Họ Tên <img border="0" src="/images/hot.gif"></a></li>
+<li><a href="/boi/que_dich_phuc_hy/index.php">Quẻ Dịch Phục Hy </a></li>
+<li><a href="/boi/que_quy_coc/index.php">Quỉ Cốc Thần Quẻ </a></li>
+<li><a href="/boi/que_thai_at/index.php">Thái Ất Thần Quẻ </a></li>
+<li><a href="/boi/que_quan_am/index.php">Quẻ Quán Âm </a></li>
+<li><a href="/boi/quan_am_linh_que/index.php">Quán Âm Linh Quẻ <img border="0" src="/images/hot.gif"></a></li>
+<li><a href="/boi/que_khong_minh/index.php">Khổng Minh Thần Quẻ </a></li>
+<li><a href="/boi/que_te_cong/index.php">Quẻ Tế Công </a></li>
+<li><a href="/boi/gieo_que_dich_so/index.php">Gieo Quẻ Dịch Số </a></li>
+<li><a href="/boi/xem_que/index.php">Gieo Quẻ 12 Con Giáp <img border="0" src="/images/new.gif"></a></li>
+<li><a href="/boi/xam_ta_quan/index.php">Xăm Tả Quân </a></li>
+<li><a href="/boi/xam_quan_am/index.php">Xăm Quán Âm </a></li>
+<li><a href="/boi/xam_quan_thanh/index.php">Xăm Quan Thánh </a></li>
+</ul>
+</div>
+</div>
+
+<div class="list-group">
+<a href="#" class="list-group-item" style="background-color:#FFE991"><span class="glyphicon glyphicon-flash" aria-hidden="true"></span> <strong>Giải Mộng Giấc Mơ</strong></a>
+<div class="menu_simple">
+<ul>
+<li><a href="/boi/mo_so/index.php">Giải mộng thành số</a></li>
+<li><a href="/boi/tu_giai_mong/index.php">Tự giải giấc mộng</a></li>
+<li><a href="/show.php?id=so_de">Giải mộng số đề</a></li>
+<li><a href="/show.php?id=diem">Điềm báo</a></li>
+<li><a href="/show.php?id=giacmo">Bí ẩn giấc mơ</a></li>
+<li><a href="/show.php?id=giacmokh">Bí ẩn giấc mơ và khoa học</a></li>
+<li><a href="/show.php?id=giaimong">Giải mộng</a></li>
+<li><a href="/show.php?id=gicmothamkinh">Giấc mơ thầm kín</a></li>
+</ul>
+</div>
+</div>
+
+<div class="list-group">
+<a href="#" class="list-group-item" style="background-color:#FFE991"><span class="glyphicon glyphicon-grain" aria-hidden="true"></span> <strong>Phong Thủy</strong></a>
+<div class="menu_simple">
+<ul>
+<li><a href="/xem_ngu_hanh/index.php?action=botri">Bố trí nội thất</a></li>
+<li><a href="/xem_ngu_hanh/index.php?action=dinhmuc">Định mức cấp phối vật liệu XD</a></li>
+<li><a href="/xem_ngu_hanh/index.php?action=dutoan">Dự toán chi tiết nhà ở</a></li>
+<li><a href="/xem_ngu_hanh/index.php?action=garden">Màu sắc sân vườn</a></li>
+<li><a href="/xem_ngu_hanh/index.php?action=khaitoan">Khái toán sơ lược nhà ở</a></li>
+<li><a href="/phongthuy/thuoc_lo_ban/index.php">Thước Lỗ Ban Đủ 3 Loại <img border="0" src="/images/new.gif"></a></li>
+<li><a href="/xem_ngu_hanh/index.php?action=loban">Thước Lỗ Ban đo hung cát</a></li>
+<li><a href="/xem_ngu_hanh/index.php?action=mauson">Chọn sơn nhà theo phong thủy</a></li>
+<li><a href="/xem_ngu_hanh/index.php?action=thietbi">Chọn thiết bị trong phòng</a></li>
+<li><a href="/xem_ngu_hanh/index.php?action=thoitrang">Thời trang theo phong thủy</a></li>
+<li><a href="/xem_ngu_hanh/index.php?action=vanphong">Phong thủy văn phòng</a></li>
+<li><a href="/xem_ngu_hanh/index.php?action=vatlieu">Dự trù vật tư xây nhà</a></li>
+<li><a href="/xem_ngu_hanh/index.php?action=venha">Bát Trạch Minh Cảnh</a></li>
+<li><a href="/xem_ngu_hanh/index.php?action=xemnha">Tính sao cho nhà ở</a></li>
+<li><a href="/xem_ngu_hanh/index.php?action=xemtuoi">Xem tuổi xây nhà</a></li>
+<li><a href="/phongthuy/book/bat_trach_minh_kinh/index.php">Bát Trạch Minh Kính</a></li>
+<li><a href="/phongthuy/book/chon_huong_nha_huong_dat/index.php">Chọn hướng nhà đất</a></li>
+<li><a href="/phongthuy/book/dia_ly_toan_thu1/index.php">Địa lý toàn thư 1</a></li>
+<li><a href="/phongthuy/book/dia_ly_toan_thu2/index.php">Địa lý toàn thư 2</a></li>
+<li><a href="/phongthuy/book/dia_ly_toan_thu3/index.php">Địa lý toàn thư 3</a></li>
+<li><a href="/phongthuy/book/huong_dan_su_dung_thuoc_lo_ban/index.php">Hướng đẫn dùng thước LB</a></li>
+<li><a href="/phongthuy/book/la_ban_phong_thuy/index.php">La bàn phong thủy</a></li>
+<li><a href="/phongthuy/book/phong_thuy_quan_canh/index.php">Phong thủy quan cảnh</a></li>
+<li><a href="/phongthuy/book/phong_thuy_tai_vuong/index.php">Phong thủy tài vượng</a></li>
+<li><a href="/phongthuy/book/phong_thuy_vuon_canh/index.php">Phong Thủy Vườn Cảnh</a></li>
+<li><a href="/phongthuy/book/sac_mau_trong_cuoc_song/index.php">Sắc màu trong cuộc sống</a></li>
+</ul>
+</div>
+</div>
+</div><!-- menu -->
+</div><!--/row-->
+</div><!--/.container-->
+<footer style="background-image: url('/images/bg_footer.jpg'); background-color: #5C5C5C; height: 100px">
+<span itemprop="author" itemscope itemtype="http://schema.org/Person">
+<center>
+<a href="/quydinh.php">Quy Định</a> Ghi rõ nguồn XemTuong.net khi Quý vị phát hành lại nội dung trên website này.
+<br>© 2006 - 2020 <span itemprop="name">XemTuong.net</span> All rights reserved
+<br>
+Email: xemtuong.net @ gmail.com
+</center>
+</span> 
+</footer>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script><script>window.jQuery || document.write('<script src="/java/assets/js/vendor/jquery.min.js"><\/script>')</script>
+<script src="/java/dist/js/bootstrap.min.js"></script>
+<script src="/java/assets/js/ie10-viewport-bug-workaround.js"></script>
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/vi_VN/sdk.js#xfbml=1&version=v2.6";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+</script>
+<script src="https://apis.google.com/js/platform.js" async defer></script>
+
+
+<script>
+jQuery(document).on('copy', function(e)
+{
+  var sel = window.getSelection();
+  var copyFooter = 
+        "<br /><br /> Nguồn: <a href='" + document.location.href + "'>http://XemTuong.net</a><br />Vui lòng không xóa link nguồn!";
+  var copyHolder = $('<div>', {html: sel+copyFooter, style: {position: 'absolute', left: '-99999px'}});
+  $('body').append(copyHolder);
+  sel.selectAllChildren( copyHolder[0] );
+  window.setTimeout(function() {
+      copyHolder.remove();
+  },0);
+});
+</script>
+
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-130278667-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-130278667-1');
+</script>
+
+
+<script type="text/javascript">
+var scrolltotop={setting:{startline:100,scrollto:0,scrollduration:1e3,fadeduration:[500,100]},controlHTML:'<img src="/img/top.png" />',controlattrs:{offsetx:5,offsety:5},anchorkeyword:"#top",state:{isvisible:!1,shouldvisible:!1},scrollup:function(){this.cssfixedsupport||this.$control.css({opacity:0});var t=isNaN(this.setting.scrollto)?this.setting.scrollto:parseInt(this.setting.scrollto);t="string"==typeof t&&1==jQuery("#"+t).length?jQuery("#"+t).offset().top:0,this.$body.animate({scrollTop:t},this.setting.scrollduration)},keepfixed:function(){var t=jQuery(window),o=t.scrollLeft()+t.width()-this.$control.width()-this.controlattrs.offsetx,s=t.scrollTop()+t.height()-this.$control.height()-this.controlattrs.offsety;this.$control.css({left:o+"px",top:s+"px"})},togglecontrol:function(){var t=jQuery(window).scrollTop();this.cssfixedsupport||this.keepfixed(),this.state.shouldvisible=t>=this.setting.startline?!0:!1,this.state.shouldvisible&&!this.state.isvisible?(this.$control.stop().animate({opacity:1},this.setting.fadeduration[0]),this.state.isvisible=!0):0==this.state.shouldvisible&&this.state.isvisible&&(this.$control.start().animate({opacity:0},this.setting.fadeduration[1]),this.state.isvisible=!1)},init:function(){jQuery(document).ready(function(t){var o=scrolltotop,s=document.all;o.cssfixedsupport=!s||s&&"CSS1Compat"==document.compatMode&&window.XMLHttpRequest,o.$body=t(window.opera?"CSS1Compat"==document.compatMode?"html":"body":"html,body"),o.$control=t('<div id="topcontrol">'+o.controlHTML+"</div>").css({position:o.cssfixedsupport?"fixed":"absolute",bottom:o.controlattrs.offsety,right:o.controlattrs.offsetx,opacity:0,cursor:"pointer"}).attr({title:"Scroll to Top"}).click(function(){return o.scrollup(),!1}).appendTo("body"),document.all&&!window.XMLHttpRequest&&""!=o.$control.text()&&o.$control.css({width:o.$control.width()}),o.togglecontrol(),t('a[href="'+o.anchorkeyword+'"]').click(function(){return o.scrollup(),!1}),t(window).bind("scroll resize",function(t){o.togglecontrol()})})}};scrolltotop.init();
+</script>
+</body>
+</html>

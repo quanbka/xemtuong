@@ -1,0 +1,15 @@
+.mce-selected-text-box{
+    cursor: pointer !important;
+    background: #ccc !important;
+    padding: 3px !important;
+    border-radius: 5px !important;
+    width: 300px !important;
+}
+.mce-selected-text-box:after{
+    content: "x" !important;
+    margin-left: 6px;
+    background: #d9534f;
+    border-radius: 30px;
+    padding: 1px 5px 2px 6px;
+    color: #fff;
+}
