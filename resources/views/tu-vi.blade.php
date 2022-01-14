@@ -7,14 +7,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta itemprop="description" name="description"
         content="Phần mềm xem tử vi tốt nhất hiện nay do chuyên gia Tử vi Lý Gia Hào của {{ config('app.name') }}biên soạn. Bao gồm bình giải của Bắc phái và Nam phái, xem đầy đủ các cách cuc, phi tinh, chi tiết các đại hạn, tiểu hạn và nguyệt hạn...">
-    <meta id="metakeywords" name="keywords" content="Tử Vi, Xem tử vi, Coi tử vi, Lá số tử vi, An sao tử vi và bình biải: Nguyễn Hồng Phúc Sinh ngày Đinh Sửu Tháng Canh Ngọ Năm Giáp Tý" />
-    <meta id="newskeywords" name="news_keywords" content="Tử Vi, Xem tử vi, Coi tử vi, Lá số tử vi, An sao tử vi và bình biải: Nguyễn Hồng Phúc Sinh ngày Đinh Sửu Tháng Canh Ngọ Năm Giáp Tý" />
+    <meta id="metakeywords" name="keywords" content="Tử Vi, Xem tử vi, Coi tử vi, Lá số tử vi, An sao tử vi và bình biải: Name Sinh ngày Đinh Sửu Tháng Canh Ngọ Năm Giáp Tý" />
+    <meta id="newskeywords" name="news_keywords" content="Tử Vi, Xem tử vi, Coi tử vi, Lá số tử vi, An sao tử vi và bình biải: Name Sinh ngày Đinh Sửu Tháng Canh Ngọ Năm Giáp Tý" />
     <meta itemprop="author" name="author" content="{{ config('app.name') }}">
     <meta name="robots" content="index,follow" />
     <meta name="revisit-after" content="1 days" />
     <meta property="og:type" content="article" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Tử Vi, Xem tử vi, Coi tử vi, Lá số tử vi, An sao tử vi và bình biải: Nguyễn Hồng Phúc Sinh ngày Đinh Sửu Tháng Canh Ngọ Năm Giáp Tý" />
+    <meta property="og:title" content="Tử Vi, Xem tử vi, Coi tử vi, Lá số tử vi, An sao tử vi và bình biải: Name Sinh ngày Đinh Sửu Tháng Canh Ngọ Năm Giáp Tý" />
     <meta property="og:description"
         content="Phần mềm xem tử vi tốt nhất hiện nay do chuyên gia Tử vi Lý Gia Hào của {{ config('app.name') }}biên soạn. Bao gồm bình giải của Bắc phái và Nam phái, xem đầy đủ các cách cuc, phi tinh, chi tiết các đại hạn, tiểu hạn và nguyệt hạn..." />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -316,7 +316,7 @@
                                             </td>
                                             <td>
                                                 <div align='left'>
-                                                    <input type='text' class='form-control' id='exampleInputName2' placeholder='Họ Tên' name='name' value='Nguyễn Hồng Phúc' size='35'>
+                                                    <input type='text' class='form-control' id='exampleInputName2' placeholder='Họ Tên' name='name' value='Name' size='35'>
                                             </td>
                                         </tr>
                                         <tr>

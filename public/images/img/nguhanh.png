@@ -652,7 +652,7 @@ Là ngày <b>Tư Mệnh <font color=red><b>Hoàng Đạo</b></font></b>, <b>Tr�
 			<td>
 			<div align='right'><b>Họ Tên</b></td>
 			<td><div align='left'>
-<input type='text' class='form-control' id='exampleInputName2' placeholder='Họ Tên' name='name' value='Nguyễn Hồng Phúc' size='35'>
+<input type='text' class='form-control' id='exampleInputName2' placeholder='Họ Tên' name='name' value='Name' size='35'>
 </td>
 		</tr>
 		<tr>
@@ -877,7 +877,7 @@ Là ngày <b>Tư Mệnh <font color=red><b>Hoàng Đạo</b></font></b>, <b>Tr�
 			<td>
 			<div align='right'><b>Họ Tên</b></td>
 			<td><div align='left'>
-<input type='text' class='form-control' id='exampleInputName2' placeholder='Họ Tên' name='name' value='Nguyễn Hồng Phúc' size='35'>
+<input type='text' class='form-control' id='exampleInputName2' placeholder='Họ Tên' name='name' value='Name' size='35'>
 </td>
 		</tr>
 		<tr>
@@ -1102,7 +1102,7 @@ Là ngày <b>Tư Mệnh <font color=red><b>Hoàng Đạo</b></font></b>, <b>Tr�
 			<td>
 			<div align='right'><b>Họ Tên</b></td>
 			<td><div align='left'>
-<input type='text' class='form-control' placeholder='Họ Tên' name='name' value='Nguyễn Hồng Phúc' size='35'>
+<input type='text' class='form-control' placeholder='Họ Tên' name='name' value='Name' size='35'>
 </td>
 		</tr>
 		<tr>
