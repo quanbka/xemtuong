@@ -15,7 +15,7 @@ class IndexController extends Controller
     }
 
     public function index (Request $request) {
-        \Log::info($request->input('gio'));
+        \Log::info(url()->full());
         $tuvi = TuVi::firstOrCreate($request->only(config('fields')));
         if ($tuvi->active) {
             // code...

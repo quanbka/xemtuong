@@ -39,12 +39,14 @@ class Crawl implements ShouldQueue
         if ($tuvi->active) {
             // code...
         } else {
-            $tuvi->response = $this->sendRequest($this->url);
-            $tuvi->table = $this->getTable($tuvi->response);
-            $tuvi->binh_giai = $this->getText($tuvi->response);
+            $response = $this->sendRequest($this->url);
+            $tuvi->table = $this->getTable($response);
+            $tuvi->binh_giai = $this->getText($response);
 
             if (strpos($tuvi->binh_giai, 'Giới Thiệu')) {
                 $tuvi->active = true;
+            } else {
+                // throw
             }
             $tuvi->table_md5 = md5($tuvi->table);
             $tuvi->binh_giai_md5 = md5($tuvi->binh_giai);
