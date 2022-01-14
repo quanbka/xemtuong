@@ -316,7 +316,8 @@
                                             </td>
                                             <td>
                                                 <div align='left'>
-                                                    <input type='text' class='form-control' id='exampleInputName2' placeholder='Họ Tên' name='name' value='Name' size='35'>
+                                                    <input type='hidden' class='form-control' id='exampleInputName2' placeholder='Họ Tên' name='name' value='Name' size='35'>
+                                                    <input type='text' class='form-control' id='exampleInputName2' placeholder='Họ Tên' name='ten' value='Name' size='35'>
                                             </td>
                                         </tr>
                                         <tr>

@@ -24,10 +24,10 @@ class IndexController extends Controller
             Crawl::dispatch($request->only(config('fields')), $url);
         }
 
+        $tuvi = TuVi::firstOrCreate($request->only(config('fields')));
 
-
-        View::share('table', $tuvi->table);
-        View::share('text', $tuvi->binh_giai);
+        View::share('table', $this->parse($tuvi->table));
+        View::share('text', $this->parse($tuvi->binh_giai));
 
         return view('tu-vi');
         return $response;
@@ -86,6 +86,11 @@ class IndexController extends Controller
         $html = preg_replace('/<!--([0-9]+)-->/', '', $html);
         $html = preg_replace('/href="(.*?)"/', '', $html);
         $html = str_ireplace('Xemtuong.net', config('app.name'), $html);
+        return $html;
+    }
+
+    public function parse ($html) {
+        $html = preg_replace('/Name|Nguyễn Hồng Phúc/', request()->input('ten'), $html);
         return $html;
     }
 }
