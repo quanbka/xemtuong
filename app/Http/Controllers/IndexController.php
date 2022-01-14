@@ -4,7 +4,7 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 use App\Jobs\Crawl;
-use App\Tuvi;
+use App\TuVi;
 use View;
 
 class IndexController extends Controller
