@@ -57,7 +57,7 @@ class Crawl implements ShouldQueue
     }
 
     public function sendRequest ($url) {
-
+        \Log::info($url);
         $curl = curl_init();
 
         curl_setopt_array($curl, array(

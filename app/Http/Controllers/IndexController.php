@@ -11,21 +11,12 @@ class IndexController extends Controller
 {
 
     public function redirect () {
-        return redirect('/la-so-tu-vi');
+        return redirect('/an_sao_tu_vi');
     }
 
     public function print (Request $request) {
         \Log::info(url()->full());
         $tuvi = TuVi::firstOrCreate($request->only(config('fields')));
-        if ($tuvi->active) {
-            // code...
-        } else {
-            $url = $this->getOriginUrl(url()->full());
-            Crawl::dispatch($request->only(config('fields')), $url);
-        }
-
-        $tuvi = TuVi::firstOrCreate($request->only(config('fields')));
-
         View::share('table', $this->parse($tuvi->table));
         View::share('text', $this->parse($tuvi->binh_giai));
 
@@ -39,8 +30,19 @@ class IndexController extends Controller
         if ($tuvi->active) {
             // code...
         } else {
-            $url = $this->getOriginUrl(url()->full());
-            Crawl::dispatch($request->only(config('fields')), $url);
+            $this->url = $this->getOriginUrl(url()->full());
+            $response = $this->sendRequest($this->url);
+            $tuvi->table = $this->getTable($response);
+            $tuvi->binh_giai = $this->getText($response);
+
+            if (strpos($tuvi->binh_giai, 'Giới Thiệu')) {
+                $tuvi->active = true;
+            } else {
+                // throw
+            }
+            $tuvi->table_md5 = md5($tuvi->table);
+            $tuvi->binh_giai_md5 = md5($tuvi->binh_giai);
+            $tuvi->save();
         }
 
         $tuvi = TuVi::firstOrCreate($request->only(config('fields')));
@@ -54,7 +56,7 @@ class IndexController extends Controller
 
 
     public function getOriginUrl ($url) {
-        return str_replace(config('app.url') . 'la-so-tu-vi', 'http://tuvi.xemtuong.net/an_sao_tu_vi/index.php', $url);
+        return str_replace(config('app.url') . 'an_sao_tu_vi', 'http://tuvi.xemtuong.net/an_sao_tu_vi/index.php', $url);
     }
 
     public function sendRequest ($url) {

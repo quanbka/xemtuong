@@ -12,6 +12,6 @@
 */
 
 Route::get('/', 'IndexController@redirect');
-Route::get('/la-so-tu-vi', 'IndexController@index');
+Route::get('/an_sao_tu_vi', 'IndexController@index');
 Route::get('/print', 'IndexController@print');
 Route::get('/queue', 'IndexController@queue');

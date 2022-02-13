@@ -563,7 +563,7 @@
                                         <td colspan='2'>
                                                  <a  class='btn btn-default' href='javascript:void(0)' onclick="downloadImage()"><span
                                                          class='glyphicon glyphicon-picture' aria-hidden='true'></span> File Hình</a>
-                                                 <a  class='btn btn-default' href='{{ str_replace('la-so-tu-vi', 'print', url()->full()) }}'><span
+                                                 <a  class='btn btn-default' href='{{ str_replace('an_sao_tu_vi', 'print', url()->full()) }}'><span
                                                          class='glyphicon glyphicon-picture' aria-hidden='true'></span> In/Pdf</a>
                                         </td>
                                     </tr>
