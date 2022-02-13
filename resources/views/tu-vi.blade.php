@@ -168,7 +168,7 @@
 </script>
 
 <body>
-    <nav class="navbar navbar-default navbar-fixed-top" style="background-image: url('/images/head_bg1.jpg');">
+    {{-- <nav class="navbar navbar-default navbar-fixed-top" style="background-image: url('/images/head_bg1.jpg');">
         <div class="container">
             <div class="navbar-header">
                 <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
@@ -193,7 +193,7 @@
 
             </div><!-- /.nav-collapse -->
         </div><!-- /.container -->
-    </nav><!-- /.navbar -->
+    </nav><!-- /.navbar --> --}}
 
 
     <div class="">
@@ -289,7 +289,9 @@
                     </div> --}}
                     <div itemscope itemtype='http://schema.org/Article'>
                         <div class='page-header'>
-                            <h1 itemprop='name'>Lá Số Tử Vi Và Bình Giải Chi Tiết</h1>
+                            <center>
+                                <h1 itemprop='name'>Lá Số Tử Vi Và Bình Giải Chi Tiết</h1>
+                            </center>
                         </div>
                         <center>
                             <form class='form-inline' action='' method='get'>
@@ -572,7 +574,9 @@
                             <center>
                                 <p align="center"></p>
                             </center>
-                            {!! $text !!}
+                            <div style="width: 902px; margin: auto;">
+                                {!! $text !!}
+                            </div>
                         <p>
                     </div>
 
