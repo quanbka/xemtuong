@@ -216,7 +216,7 @@
                 <div>
                     {!! $table !!}
                 </div>
-                <style media="screen">
+                <style media="all">
                     .table-responsive > table {
                         border: 2px solid black;
                     }
