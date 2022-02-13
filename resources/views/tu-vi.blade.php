@@ -196,7 +196,7 @@
     </nav><!-- /.navbar -->
 
 
-    <div class="container">
+    <div class="">
         <div class="row">
             <p align="center">
             </p>
