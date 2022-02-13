@@ -14,6 +14,25 @@ class IndexController extends Controller
         return redirect('/la-so-tu-vi');
     }
 
+    public function print (Request $request) {
+        \Log::info(url()->full());
+        $tuvi = TuVi::firstOrCreate($request->only(config('fields')));
+        if ($tuvi->active) {
+            // code...
+        } else {
+            $url = $this->getOriginUrl(url()->full());
+            Crawl::dispatch($request->only(config('fields')), $url);
+        }
+
+        $tuvi = TuVi::firstOrCreate($request->only(config('fields')));
+
+        View::share('table', $this->parse($tuvi->table));
+        View::share('text', $this->parse($tuvi->binh_giai));
+
+        return view('tu-vi-print');
+        return $response;
+    }
+
     public function index (Request $request) {
         \Log::info(url()->full());
         $tuvi = TuVi::firstOrCreate($request->only(config('fields')));
@@ -86,11 +105,13 @@ class IndexController extends Controller
         $html = preg_replace('/<!--([0-9]+)-->/', '', $html);
         $html = preg_replace('/href="(.*?)"/', '', $html);
         $html = str_ireplace('Xemtuong.net', config('app.name'), $html);
+        $html = str_ireplace('Xem Tướng chấm net', config('app.name'), $html);
         return $html;
     }
 
     public function parse ($html) {
         $html = preg_replace('/Name|Nguyễn Hồng Phúc/', request()->input('ten'), $html);
+        $html = str_ireplace('Xem Tướng chấm net', config('app.name'), $html);
         return $html;
     }
 }
