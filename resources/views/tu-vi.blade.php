@@ -4,7 +4,7 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <title itemprop="name">Tu Vi, Xem tu vi, Coi tu vi, La so tu vi, An sao tu vi va binh biai: Nguyen Hong Phuc Sinh ngay Dinh Suu Thang Canh Ngo Nam Giap Ty</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    {{-- <meta name="viewport" content="width=1024px, initial-scale=1.0"> --}}
     <meta itemprop="description" name="description"
         content="Phần mềm xem tử vi tốt nhất hiện nay do chuyên gia Tử vi Lý Gia Hào của {{ config('app.name') }}biên soạn. Bao gồm bình giải của Bắc phái và Nam phái, xem đầy đủ các cách cuc, phi tinh, chi tiết các đại hạn, tiểu hạn và nguyệt hạn...">
     <meta id="metakeywords" name="keywords" content="Tử Vi, Xem tử vi, Coi tử vi, Lá số tử vi, An sao tử vi và bình biải: Name Sinh ngày Đinh Sửu Tháng Canh Ngọ Năm Giáp Tý" />
