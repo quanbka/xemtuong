@@ -6,7 +6,7 @@
     <title itemprop="name">Tu Vi, Xem tu vi, Coi tu vi, La so tu vi, An sao tu vi va binh biai: Nguyen Hong Phuc Sinh ngay Dinh Suu Thang Canh Ngo Nam Giap Ty</title>
     {{-- <meta name="viewport" content="width=1024px, initial-scale=1.0"> --}}
     <meta itemprop="description" name="description"
-        content="Phần mềm xem tử vi tốt nhất hiện nay do chuyên gia Tử vi Lý Gia Hào của {{ config('app.name') }}biên soạn. Bao gồm bình giải của Bắc phái và Nam phái, xem đầy đủ các cách cuc, phi tinh, chi tiết các đại hạn, tiểu hạn và nguyệt hạn...">
+        content="Chuyên gia tử vi Long Lã chủ tịch học viện phong thủy gia tộc Việt biên soạn. Bao gồm bình giải của Bắc phái và Nam phái, xem đầy đủ các cách cuc, phi tinh, chi tiết các đại hạn, tiểu hạn và nguyệt hạn...">
     <meta id="metakeywords" name="keywords" content="Tử Vi, Xem tử vi, Coi tử vi, Lá số tử vi, An sao tử vi và bình biải: Name Sinh ngày Đinh Sửu Tháng Canh Ngọ Năm Giáp Tý" />
     <meta id="newskeywords" name="news_keywords" content="Tử Vi, Xem tử vi, Coi tử vi, Lá số tử vi, An sao tử vi và bình biải: Name Sinh ngày Đinh Sửu Tháng Canh Ngọ Năm Giáp Tý" />
     <meta itemprop="author" name="author" content="{{ config('app.name') }}">
@@ -16,7 +16,7 @@
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Tử Vi, Xem tử vi, Coi tử vi, Lá số tử vi, An sao tử vi và bình biải: Name Sinh ngày Đinh Sửu Tháng Canh Ngọ Năm Giáp Tý" />
     <meta property="og:description"
-        content="Phần mềm xem tử vi tốt nhất hiện nay do chuyên gia Tử vi Lý Gia Hào của {{ config('app.name') }}biên soạn. Bao gồm bình giải của Bắc phái và Nam phái, xem đầy đủ các cách cuc, phi tinh, chi tiết các đại hạn, tiểu hạn và nguyệt hạn..." />
+        content="Chuyên gia tử vi Long Lã chủ tịch học viện phong thủy gia tộc Việt biên soạn. Bao gồm bình giải của Bắc phái và Nam phái, xem đầy đủ các cách cuc, phi tinh, chi tiết các đại hạn, tiểu hạn và nguyệt hạn..." />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <!--<meta name="viewport" content="width=device-width, initial-scale=1">-->
     <meta name="author" content="{{ config('app.name') }}">
