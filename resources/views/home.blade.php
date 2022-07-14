@@ -10,6 +10,18 @@
                 <div class="card-header">Dashboard</div>
                 
                 <table class="table">
+                    <tr>
+                        <td>Lúc</td>
+                        <td>Tên</td>
+                        <td>Ngày</td>
+                        <td>Tháng</td>
+                        <td>Năm</td>
+                        <td>Giờ</td>
+                        <td>Phút</td>
+                        <td>Giới tính</td>
+                        <td>Xem năm</td>
+                        <td>Số điện thoại</td>
+                    </tr>
                     @foreach ($xems as $xem) 
                     <tr>
                         <td>
