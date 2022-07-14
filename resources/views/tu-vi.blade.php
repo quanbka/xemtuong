@@ -319,7 +319,16 @@
                                             <td>
                                                 <div align='left'>
                                                     <input type='hidden' class='form-control' id='exampleInputName2' placeholder='Họ Tên' name='name' value='Name' size='35'>
-                                                    <input type='text' class='form-control' id='exampleInputName2' placeholder='Họ Tên' name='ten' value='Name' size='35'>
+                                                    <input type='text' class='form-control' id='exampleInputName2' placeholder='Họ Tên' name='ten' value="{{ request()->input('ten') }}" size='35'>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                <div align='right'><b>Số điện thoại</b>
+                                            </td>
+                                            <td>
+                                                <div align='left'>
+                                                    <input type='text' class='form-control' placeholder='Số điện thoại*' name='phone' value="{{ request()->input('phone') }}" size='35'>
                                             </td>
                                         </tr>
                                         <tr>

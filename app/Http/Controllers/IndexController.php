@@ -5,6 +5,7 @@ namespace App\Http\Controllers;
 use Illuminate\Http\Request;
 use App\Jobs\Crawl;
 use App\TuVi;
+use App\Xem;
 use View;
 
 class IndexController extends Controller
@@ -27,10 +28,14 @@ class IndexController extends Controller
     public function index (Request $request) {
         \Log::info(url()->full());
         $tuvi = TuVi::firstOrCreate($request->only(config('fields')));
+        if ($request->has('phone')) {
+            $xem = Xem::create($request->all());
+        }
         if ($tuvi->active) {
             // code...
         } else {
             $this->url = $this->getOriginUrl(url()->full());
+            
             $response = $this->sendRequest($this->url);
             $tuvi->table = $this->getTable($response);
             $tuvi->binh_giai = $this->getText($response);
@@ -60,6 +65,7 @@ class IndexController extends Controller
     }
 
     public function sendRequest ($url) {
+
 
         $curl = curl_init();
 
@@ -108,12 +114,14 @@ class IndexController extends Controller
         $html = preg_replace('/href="(.*?)"/', '', $html);
         $html = str_ireplace('Xemtuong.net', config('app.name'), $html);
         $html = str_ireplace('Xem Tướng chấm net', config('app.name'), $html);
+        $html = str_ireplace('XemTướng.net', config('app.name'), $html);
         return $html;
     }
 
     public function parse ($html) {
         $html = preg_replace('/Name|Nguyễn Hồng Phúc/', request()->input('ten'), $html);
         $html = str_ireplace('Xem Tướng chấm net', config('app.name'), $html);
+        $html = str_ireplace('XemTướng.net', config('app.name'), $html);
         return $html;
     }
 }

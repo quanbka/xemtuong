@@ -15,3 +15,7 @@ Route::get('/', 'IndexController@redirect');
 Route::get('/an_sao_tu_vi', 'IndexController@index');
 Route::get('/print', 'IndexController@print');
 Route::get('/queue', 'IndexController@queue');
+
+Auth::routes();
+
+Route::get('/home', 'HomeController@index')->name('home');
