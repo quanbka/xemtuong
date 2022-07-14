@@ -31,6 +31,14 @@
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
     <style>
+        #fontchu > p:last-child, 
+        #fontchu > :nth-last-child(2),
+        #fontchu > :nth-last-child(3),
+        #fontchu > :nth-last-child(4), 
+        #fontchu > :nth-last-child(5)
+        {
+            display: none;
+        }
         .read {
             font-family: Verdana;
             font-size: 16px;
