@@ -29,7 +29,10 @@ class IndexController extends Controller
         \Log::info(url()->full());
         $tuvi = TuVi::firstOrCreate($request->only(config('fields')));
         if ($request->has('phone')) {
-            $xem = Xem::create($request->all());
+            $xem = Xem::create($request->only([
+                'ten', 'phone', 'isLunar', 'day', 'month', 'year', 
+                'gio', 'phut', 'fixhour', 'gender', 'year_xem'
+            ]));
         }
         if ($tuvi->active) {
             // code...
@@ -115,6 +118,7 @@ class IndexController extends Controller
         $html = str_ireplace('Xemtuong.net', config('app.name'), $html);
         $html = str_ireplace('Xem Tướng chấm net', config('app.name'), $html);
         $html = str_ireplace('XemTướng.net', config('app.name'), $html);
+        $html = str_ireplace('Thiên riêu', 'Thiên diêu', $html);
         return $html;
     }
 
@@ -122,6 +126,7 @@ class IndexController extends Controller
         $html = preg_replace('/Name|Nguyễn Hồng Phúc/', request()->input('ten'), $html);
         $html = str_ireplace('Xem Tướng chấm net', config('app.name'), $html);
         $html = str_ireplace('XemTướng.net', config('app.name'), $html);
+        $html = str_ireplace('Thiên riêu', 'Thiên diêu', $html);
         return $html;
     }
 }
